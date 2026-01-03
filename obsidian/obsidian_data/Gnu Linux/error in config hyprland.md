@@ -1,0 +1,1 @@
+rm ~/.local/state/nvim/swap/%home%user%.config%hypr%hyprland.conf.swp

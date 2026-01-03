@@ -1,0 +1,10 @@
+configuration {
+    modi:           "drun,run";
+    show-icons:     true;
+    icon-theme:     "Papirus-Dark";
+    terminal:       "kitty";
+    drun-display-format: "{icon} {name}";
+    disable-history: false;
+}
+
+@theme "theme.rasi"

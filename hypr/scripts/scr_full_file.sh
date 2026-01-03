@@ -1,0 +1,3 @@
+#!/bin/bash
+grim "$HOME/skrin/full_$(date +%Y-%m-%d_%H-%M-%S).png"
+

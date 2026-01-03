@@ -1,0 +1,8 @@
+
+#!/bin/bash
+# Мониторинг загрузки и температуры AMD GPU через rocm-smi
+DATA=$(rocm-smi --showuse --showtemp --json)
+LOAD=$(echo $DATA | jq -r '.[]."GPU use (%)"')
+TEMP=$(echo $DATA | jq -r '.[]."Temperature (Sensor edge) (C)"')
+
+echo "{\"text\":\"$LOAD% | ${TEMP}°C\", \"tooltip\":\"AMD RX 6600\\nЗагрузка: $LOAD%\\nТемпература: ${TEMP}°C\"}"

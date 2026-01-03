@@ -1,0 +1,53 @@
+* {
+    /* Цветовая схема Nord */
+    bg:     #2E3440;
+    bg-alt: #3B4252;
+    fg:     #ECEFF4;
+    accent: #88C0D0;
+    urgent: #BF616A;
+    
+    /* Основные параметры */
+    background-color:   @bg;
+    text-color:         @fg;
+    border-radius:      16px;
+    margin:             0;
+    padding:            5px;
+    width:              700px;
+	height:             450px;  
+	location:           center;
+    
+    /* Шрифт (проверьте, что Fira Code установлен) */
+    font:               "Fira Code Bold 14";
+    
+    /* Анимации */
+    animation-speed:    0.2;
+}
+
+element {
+    padding:            12px 24px;
+    border-radius:      12px;
+    background-color:   transparent;
+    text-color:         @fg;
+}
+
+element selected {
+    background-color:   @bg-alt;
+    text-color:         @accent;
+}
+
+entry {
+    placeholder:       "...";
+    text-color:        @accent;
+}
+
+inputbar {
+    children:          [entry];
+    background-color:  @bg-alt;
+    border-radius:     8px;
+    padding:           16px;
+}
+
+listview {
+    lines:             12;
+    spacing:           4px;
+}

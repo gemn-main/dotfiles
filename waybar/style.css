@@ -1,0 +1,141 @@
+/* Основные настройки */
+* {
+    font-family: "JetBrains Mono Nerd Font", "Font Awesome 6 Free", sans-serif;
+    font-size: 14px;
+    min-height: 0;
+    border: none;
+    border-radius: 8px;
+}
+
+/* Окно Waybar */
+window#waybar {
+    background-color: transparent;  
+    color: #ffffff;
+    border-radius: 0;
+}
+
+/* Контейнеры модулей */
+.modules-left {
+    background-color: #1e1e2e;
+    margin: 5px 0 5px 5px;
+    padding: 0 10px;
+    border-radius: 16px;
+}
+
+.modules-center {
+    background-color: transparent;
+    margin: 5px 0;
+    padding: 0 10px;
+    border-radius: 16px;
+}
+
+.modules-right {
+    background-color: transparent;
+    margin: 5px 5px 5px 0;
+    padding: 0 10px;
+    border-radius: 16px;
+}
+
+/* Рабочие пространства - фиолетовые */
+#workspaces button {
+    padding: 0 8px;
+    color: #cba6f7;
+    background: transparent;
+    transition: all 0.3s ease;
+}
+
+#workspaces button.active {
+    color: #ffffff;
+    background-color: #cba6f7;
+    text-shadow: 0 0 5px rgba(203, 166, 247, 0.8);
+}
+
+#workspaces button.urgent {
+    color: #f38ba8;
+    animation: pulse 2s infinite;
+}
+
+/* Часы - розовые */
+#clock {
+    color: #f5c2e7;
+    background-color: rgba(245, 194, 231, 0.15);
+    padding: 0 12px;
+    margin: 0 4px;
+}
+
+/* Сеть - синие */
+#network {
+    color: #89b4fa;
+    background-color: rgba(137, 180, 250, 0.15);
+    padding: 0 12px;
+    margin: 0 4px;
+}
+
+#network.disconnected {
+    color: #f38ba8;
+}
+
+/* Звук - зеленые */
+#pulseaudio {
+    color: #a6e3a1;
+    background-color: rgba(166, 227, 161, 0.15);
+    padding: 0 12px;
+    margin: 0 4px;
+}
+
+#pulseaudio.muted {
+    color: #f38ba8;
+}
+
+/* CPU - оранжевые */
+#cpu {
+    color: #fab387;
+    background-color: rgba(250, 179, 135, 0.15);
+    padding: 0 12px;
+    margin: 0 4px;
+}
+
+/* Память - желтые */
+#memory {
+    color: #f9e2af;
+    background-color: rgba(249, 226, 175, 0.15);
+    padding: 0 12px;
+    margin: 0 4px;
+}
+
+/* Температура - бирюзовые */
+#temperature {
+    color: #94e2d5;
+    background-color: rgba(148, 226, 213, 0.15);
+    padding: 0 12px;
+    margin: 0 4px;
+}
+
+#temperature.critical {
+    color: #f38ba8;
+}
+
+
+
+/* Всплывающие подсказки */
+tooltip {
+    background: #1e1e2e;
+    border: 1px solid #585b70;
+    border-radius: 12px;
+    padding: 8px 12px;
+    color: #cdd6f4;
+}
+
+/* Анимации */
+@keyframes pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.5; }
+    100% { opacity: 1; }
+}
+
+@keyframes blink {
+    to {
+        background-color: #f38ba8;
+        color: #1e1e2e;
+    }
+}

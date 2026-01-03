@@ -1,0 +1,5 @@
+- [[date]] 
+- [[cal]] 
+- [[df]] 
+- [[free linux]]  
+- [[exit]] 
