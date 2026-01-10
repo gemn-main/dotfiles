@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "проект технология.md",
+                "file": "технология.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "проект технология"
+              "title": "технология"
             }
           }
         ],
@@ -214,6 +214,7 @@
   },
   "active": "a5570b21a224979d",
   "lastOpenFiles": [
+    "Умное ЖКХ.md",
     "технология.md",
     "темы физики ОГЭ.md",
     "Pasted image 20260106215006.png",
@@ -224,7 +225,6 @@
     "Pasted image 20260106214112.png",
     "Pasted image 20260106214056.png",
     "какаха.md",
-    "проект технология.md",
     "Untitled.md"
   ]
 }
