@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "информационная безопасность.md",
+                "file": "цензура.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "информационная безопасность"
+              "title": "цензура"
             }
           },
           {
@@ -254,8 +254,8 @@
   },
   "active": "a2bbeb1a632b9066",
   "lastOpenFiles": [
-    "цензура.md",
     "информационная безопасность.md",
+    "цензура.md",
     "Pasted image 20260115234705.png",
     "технология.md",
     "Pasted image 20260106214112.png",
