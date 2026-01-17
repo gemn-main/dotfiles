@@ -1,2 +1,3 @@
+deepseek
 gemma3
-checksum_v1 = dd530cc812be3990bea1c121c508230f
+checksum_v1 = 1fc33d18c509b5b73e0c351ed01b7fe3
