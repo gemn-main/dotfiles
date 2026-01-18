@@ -1,3 +1,3 @@
-2026/01/17-15:11:52.710 10718 Reusing MANIFEST /home/user/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
-2026/01/17-15:11:52.730 10718 Recovering log #3
-2026/01/17-15:11:52.731 10718 Reusing old log /home/user/.config/obsidian/Local Storage/leveldb/000003.log 
+2026/01/17-18:28:16.893 25eb Reusing MANIFEST /home/user/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
+2026/01/17-18:28:16.917 25eb Recovering log #3
+2026/01/17-18:28:16.918 25eb Reusing old log /home/user/.config/obsidian/Local Storage/leveldb/000003.log 
