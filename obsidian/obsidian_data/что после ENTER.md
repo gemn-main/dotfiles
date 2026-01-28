@@ -3,7 +3,4 @@
 
 
 
-
-
-drughinin456@gmail.com
-teiv%oh2oohei[Ng0yox
+7 903 595 60 23
