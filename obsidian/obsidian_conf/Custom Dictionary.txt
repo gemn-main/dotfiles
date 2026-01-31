@@ -1,3 +1,7 @@
 deepseek
 gemma3
-checksum_v1 = 1fc33d18c509b5b73e0c351ed01b7fe3
+gurutin1
+ricksanchez
+stokfin
+vr
+checksum_v1 = 851fd7353a92fc90fdcdb32eaa10e07d
