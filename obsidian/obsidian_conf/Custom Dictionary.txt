@@ -1,7 +1,8 @@
 deepseek
+embeddings
 gemma3
 gurutin1
 ricksanchez
 stokfin
 vr
-checksum_v1 = 851fd7353a92fc90fdcdb32eaa10e07d
+checksum_v1 = c0126cad23b02bd23983b06ee882eb04

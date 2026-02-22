@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3ad38052001ad94f","type":"text","text":"LLM через API делает:\n- интерпретацию тем\n- суммаризацию\n- отчёты\n- ответы на вопросы","x":-960,"y":-233,"width":300,"height":193,"color":"#4258ff"},
+		{"id":"f3d111a8c08134fb","type":"text","text":"Open-source модели:\n- embeddings\n- кластеризацию\n- детекцию трендов","x":-1340,"y":-233,"width":280,"height":160,"color":"2"},
+		{"id":"433da1587157f9ea","x":-1400,"y":20,"width":420,"height":500,"type":"file","file":"data.md"}
+	],
+	"edges":[
+		{"id":"af89ab32282275a4","fromNode":"f3d111a8c08134fb","fromSide":"top","toNode":"3ad38052001ad94f","toSide":"top"},
+		{"id":"020ad4f2e35a720f","fromNode":"f3d111a8c08134fb","fromSide":"top","toNode":"433da1587157f9ea","toSide":"top"}
+	]
+}
