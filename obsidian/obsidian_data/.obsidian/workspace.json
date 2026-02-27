@@ -15,9 +15,9 @@
               "state": {
                 "file": "bis/tigik/tigik.canvas",
                 "viewState": {
-                  "x": -792.2250377733548,
-                  "y": 182.38124288663005,
-                  "zoom": 0.09999999999999998
+                  "x": -1030,
+                  "y": 31.89999999999999,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tq",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -188,12 +188,13 @@
   },
   "active": "67a15e1f3fbb35b3",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-05-02 14.50.19.excalidraw.md",
+    "bis/tigik/tigik.canvas",
     "bis/Без названия",
     "bis/tigik",
     "bis/tigik/data.md",
     "утилиты.md",
     "информационная безопасность.md",
-    "bis/tigik/tigik.canvas",
     "bis",
     "Gnu Linux/tresh/цензура.md",
     "Gnu Linux/tresh/продвинутые приемы работы с клавиатурой.md",
