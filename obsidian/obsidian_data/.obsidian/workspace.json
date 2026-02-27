@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "tigik.canvas",
+                "file": "bis/tigik/tigik.canvas",
                 "viewState": {
-                  "x": -1000,
-                  "y": 198.3,
-                  "zoom": 0
+                  "x": -792.2250377733548,
+                  "y": 182.38124288663005,
+                  "zoom": 0.09999999999999998
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -186,12 +186,15 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "a057b0e9f94dd7e4",
+  "active": "67a15e1f3fbb35b3",
   "lastOpenFiles": [
-    "data.md",
-    "tigik.canvas",
+    "bis/Без названия",
+    "bis/tigik",
+    "bis/tigik/data.md",
     "утилиты.md",
     "информационная безопасность.md",
+    "bis/tigik/tigik.canvas",
+    "bis",
     "Gnu Linux/tresh/цензура.md",
     "Gnu Linux/tresh/продвинутые приемы работы с клавиатурой.md",
     "Gnu Linux/tresh/подстановка(expansion).md",
