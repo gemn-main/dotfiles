@@ -11,17 +11,14 @@
             "id": "67a15e1f3fbb35b3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "bis/tigik/tigik.canvas",
-                "viewState": {
-                  "x": -1030,
-                  "y": 31.89999999999999,
-                  "zoom": 0
-                }
+                "file": "утилиты.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "tigik"
+              "icon": "lucide-file",
+              "title": "утилиты"
             }
           }
         ]
@@ -56,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tq",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,13 +185,14 @@
   },
   "active": "67a15e1f3fbb35b3",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-05-02 14.50.19.excalidraw.md",
+    "информационная безопасность.md",
     "bis/tigik/tigik.canvas",
-    "bis/Без названия",
-    "bis/tigik",
+    "bis/tigik/Clickhouse - база данных.md",
     "bis/tigik/data.md",
     "утилиты.md",
-    "информационная безопасность.md",
+    "Excalidraw/Drawing 2025-05-02 14.50.19.excalidraw.md",
+    "bis/Без названия",
+    "bis/tigik",
     "bis",
     "Gnu Linux/tresh/цензура.md",
     "Gnu Linux/tresh/продвинутые приемы работы с клавиатурой.md",
@@ -225,8 +223,6 @@
     "tresh/темы физики ОГЭ.md",
     "books/linux/командная строка linux/командная строка Linux/что после ENTER 1.md",
     "Умное ЖКХ.md",
-    "Gnu Linux/tresh/изменение текста.md",
-    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/компоновка данных по времени 1.md",
-    "Untitled.md"
+    "Gnu Linux/tresh/изменение текста.md"
   ]
 }

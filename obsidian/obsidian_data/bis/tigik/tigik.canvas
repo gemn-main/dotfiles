@@ -2,10 +2,12 @@
 	"nodes":[
 		{"id":"3ad38052001ad94f","type":"text","text":"LLM через API делает:\n- интерпретацию тем\n- суммаризацию\n- отчёты\n- ответы на вопросы","x":-960,"y":-233,"width":300,"height":193,"color":"#4258ff"},
 		{"id":"f3d111a8c08134fb","type":"text","text":"Open-source модели:\n- embeddings\n- кластеризацию\n- детекцию трендов","x":-1340,"y":-233,"width":280,"height":160,"color":"2"},
-		{"id":"433da1587157f9ea","type":"file","file":"bis/tigik/data.md","x":-1760,"y":-40,"width":440,"height":500}
+		{"id":"0915645c8e09a337","type":"file","file":"bis/tigik/Clickhouse - база данных.md","x":-2200,"y":-726,"width":620,"height":573},
+		{"id":"433da1587157f9ea","type":"file","file":"bis/tigik/data.md","x":-1760,"y":140,"width":440,"height":500}
 	],
 	"edges":[
 		{"id":"af89ab32282275a4","fromNode":"f3d111a8c08134fb","fromSide":"top","toNode":"3ad38052001ad94f","toSide":"top"},
-		{"id":"020ad4f2e35a720f","fromNode":"f3d111a8c08134fb","fromSide":"top","toNode":"433da1587157f9ea","toSide":"top"}
+		{"id":"020ad4f2e35a720f","fromNode":"f3d111a8c08134fb","fromSide":"top","toNode":"433da1587157f9ea","toSide":"top"},
+		{"id":"58abd638e63ee416","fromNode":"433da1587157f9ea","fromSide":"top","toNode":"0915645c8e09a337","toSide":"bottom"}
 	]
 }
