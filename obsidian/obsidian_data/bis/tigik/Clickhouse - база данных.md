@@ -1,4 +1,3 @@
-
 # Скачать и запустить официальный контейнер
 `docker pull clickhouse/clickhouse-server:latest`
 
