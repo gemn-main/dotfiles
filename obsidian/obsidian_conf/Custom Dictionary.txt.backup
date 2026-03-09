@@ -1,4 +1,6 @@
+BeautifulSoup
 ClickHouse
+clickhouse
 deepseek
 embeddings
 gemma3
@@ -6,4 +8,4 @@ gurutin1
 ricksanchez
 stokfin
 vr
-checksum_v1 = 93dc3c43533c4ae6cf1d98955a5702be
+checksum_v1 = 44c6f49aaa3f897c71f379b986679c3a
