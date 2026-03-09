@@ -20,8 +20,26 @@
               "icon": "lucide-file",
               "title": "утилиты"
             }
+          },
+          {
+            "id": "2c66ed549fb6aac8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "bis/tigik/tigik.canvas",
+                "viewState": {
+                  "x": -1430,
+                  "y": -43,
+                  "zoom": -0.7669756643915595
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "tigik"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,13 +201,13 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "67a15e1f3fbb35b3",
+  "active": "2c66ed549fb6aac8",
   "lastOpenFiles": [
+    "bis/tigik/data.md",
     "bis/tigik/Clickhouse - база данных.md",
     "утилиты.md",
     "bis/tigik/tigik.canvas",
     "информационная безопасность.md",
-    "bis/tigik/data.md",
     "Excalidraw/Drawing 2025-05-02 14.50.19.excalidraw.md",
     "bis/Без названия",
     "bis/tigik",
