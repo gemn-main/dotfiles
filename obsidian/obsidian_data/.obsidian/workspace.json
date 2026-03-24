@@ -78,6 +78,20 @@
             }
           },
           {
+            "id": "bce599ccf1a813bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bis/tigik/data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "data"
+            }
+          },
+          {
             "id": "1f00b560701429d8",
             "type": "leaf",
             "state": {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -254,8 +268,9 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "a0dff56b0a0030ef",
+  "active": "bce599ccf1a813bb",
   "lastOpenFiles": [
+    "bis/tigik/Clickhouse - база данных.md",
     "Gnu Linux/tresh/цензура.md",
     "сети.md",
     "tresh/план тренировки.md",
@@ -282,7 +297,6 @@
     "перебор элементов.md",
     "получение атрибута.md",
     "поиск по атрибутам.md",
-    "поиск по классу.md",
     "bis/tigik/tigik.canvas",
     "scraping",
     "bis/Без названия",
