@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bis/tigik/data.md",
+                "file": "tresh/books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "data"
+              "title": "books"
             }
           },
           {
@@ -270,9 +270,15 @@
   },
   "active": "bce599ccf1a813bb",
   "lastOpenFiles": [
+    "tresh/color.md",
+    "tresh/api telegram.md",
+    "Pasted image 20260312172408.png",
+    "получение атрибута.md",
+    "получение тега.md",
+    "сети.md",
+    "bis/tigik/data.md",
     "bis/tigik/Clickhouse - база данных.md",
     "Gnu Linux/tresh/цензура.md",
-    "сети.md",
     "tresh/план тренировки.md",
     "tresh/какаха.md",
     "tresh/времена.md",
@@ -282,21 +288,14 @@
     "tresh/leetttcooooodeee.md",
     "tresh/galaktiki.md",
     "tresh/books.md",
-    "tresh/api telegram.md",
     "tresh/ps.md",
     "tresh/добавки.md",
-    "tresh/color.md",
     "tresh/стрижка.md",
     "tresh/правильное чтение.md",
     "tresh/расписуха.md",
     "CSS селекторы.md",
-    "Pasted image 20260312172408.png",
     "scraping/scraping.md",
     "BeautifulSoup.md",
-    "утилиты.md",
-    "перебор элементов.md",
-    "получение атрибута.md",
-    "поиск по атрибутам.md",
     "bis/tigik/tigik.canvas",
     "scraping",
     "bis/Без названия",
