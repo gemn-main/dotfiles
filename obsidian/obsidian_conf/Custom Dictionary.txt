@@ -6,7 +6,8 @@ deepseek
 embeddings
 gemma3
 gurutin1
+nvim
 ricksanchez
 stokfin
 vr
-checksum_v1 = 77f9d85ea613f768288e198a8d24e637
+checksum_v1 = 553af80e582c6cce9d9130185bf7fd0e
