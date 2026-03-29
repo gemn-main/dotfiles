@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"029d6a648b3737a4","type":"text","text":"данные собираются ","x":-740,"y":-40,"width":250,"height":60},
+		{"id":"d7a41806a7bc342a","type":"file","file":"bis/polymarket/data_poly.md","x":-1140,"y":-580,"width":400,"height":400},
+		{"id":"a389aefc79b01f5b","x":-780,"y":-1280,"width":400,"height":400,"type":"file","file":"bis/polymarket/reddit scraping.md"}
+	],
+	"edges":[
+		{"id":"bc779eed95115ec4","fromNode":"029d6a648b3737a4","fromSide":"top","toNode":"d7a41806a7bc342a","toSide":"bottom"},
+		{"id":"8e5a5fc3d8208edd","fromNode":"d7a41806a7bc342a","fromSide":"top","toNode":"a389aefc79b01f5b","toSide":"bottom"}
+	]
+}
