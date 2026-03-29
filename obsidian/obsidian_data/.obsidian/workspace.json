@@ -97,12 +97,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnu Linux/tresh/продвинутые приемы работы с клавиатурой.md",
+                "file": "scraping/scraping/CSS селекторы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "продвинутые приемы работы с клавиатурой"
+              "title": "CSS селекторы"
+            }
+          },
+          {
+            "id": "ed0f91ca9c419f48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scraping/scraping/получение атрибута.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "получение атрибута"
+            }
+          },
+          {
+            "id": "99a982747a06e177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ply twitter account.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ply twitter account"
             }
           },
           {
@@ -120,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -282,35 +310,36 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "df7b6e07ec72ea08",
+  "active": "99a982747a06e177",
   "lastOpenFiles": [
-    "books/linux/командная строка linux/командная строка Linux/history.md",
+    "утилиты.md",
+    "scraping/scraping/создание объекта BeautifulSoup.md",
+    "сети.md",
+    "scraping/scraping/получение атрибута.md",
+    "информационная безопасность.md",
+    "scraping/scraping/извлечение текста.md",
+    "scraping/scraping/CSS селекторы.md",
+    "images/Pasted image 20260312172408.png",
+    "scraping/scraping/поиск по классу.md",
+    "scraping/scraping/получение тега.md",
+    "scraping/scraping.md",
+    "scraping/scraping",
+    "ply twitter account.md",
+    "scraping/scraping/нахождение первого элемента.md",
+    "scraping/scraping/нахождение всех элементов.md",
+    "scraping/scraping/перебор элементов.md",
+    "scraping/scraping/поиск по атрибутам.md",
     "Gnu Linux/tresh/продвинутые приемы работы с клавиатурой.md",
+    "books/linux/командная строка linux/командная строка Linux/history.md",
     "books/linux/командная строка linux/Командная строка Linux.md",
     "books/linux/командная строка linux/командная строка Linux/grep.md",
     "books/linux/командная строка linux/командная строка Linux/перенаправление.md",
-    "получение атрибута.md",
     "books/linux/командная строка linux/командная строка Linux/параметры grep.md",
     "books/linux/командная строка linux/командная строка Linux/cat linux.md",
     "Gnu Linux/tresh/вырезание и вставка.md",
     "Gnu Linux/tresh/изменение текста.md",
     "Gnu Linux/tresh/перемещение курсора.md",
     "tresh/books.md",
-    "tresh/color.md",
-    "tresh/api telegram.md",
-    "Pasted image 20260312172408.png",
-    "получение тега.md",
-    "сети.md",
-    "bis/tigik/data.md",
-    "bis/tigik/Clickhouse - база данных.md",
-    "Gnu Linux/tresh/цензура.md",
-    "tresh/план тренировки.md",
-    "tresh/какаха.md",
-    "tresh/времена.md",
-    "tresh/resurs.md",
-    "tresh/palan.md",
-    "tresh/jupyter themes.md",
-    "tresh/leetttcooooodeee.md",
     "bis/tigik/tigik.canvas",
     "scraping",
     "bis/Без названия",
