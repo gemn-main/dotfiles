@@ -8,6 +8,7 @@
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 alias pass20='pwgen 20 1 -y'
+alias ytbest='yt-dlp -f bestvideo+bestaudio'
 PS1='[\u@\h \W]\$ '
 
 # >>> conda initialize >>>
