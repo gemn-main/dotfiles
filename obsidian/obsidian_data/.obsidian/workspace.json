@@ -140,17 +140,14 @@
             "id": "4719eb7380d68403",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "bis/polymarket/polytem.canvas",
-                "viewState": {
-                  "x": 943.0276715849245,
-                  "y": 249.94641235158807,
-                  "zoom": -0.5692338096657192
-                }
+                "file": "утилиты.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "polytem"
+              "icon": "lucide-file",
+              "title": "утилиты"
             }
           },
           {
@@ -328,11 +325,11 @@
   },
   "active": "4719eb7380d68403",
   "lastOpenFiles": [
+    "bis/polymarket/polytem.canvas",
     "bis/polymarket/models/Claude Opus 4.6.md",
     "bis/polymarket/models/GPT-5.4.md",
     "scraping/scraping.md",
     "bis/polymarket/scraping/twitter scraping.md",
-    "bis/polymarket/polytem.canvas",
     "bis/polymarket/models",
     "Без названия.md",
     "bis/polymarket/scraping",
