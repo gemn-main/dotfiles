@@ -1,11 +1,38 @@
 {
 	"nodes":[
-		{"id":"029d6a648b3737a4","type":"text","text":"данные собираются ","x":-740,"y":-40,"width":250,"height":60},
-		{"id":"d7a41806a7bc342a","type":"file","file":"bis/polymarket/data_poly.md","x":-1140,"y":-580,"width":400,"height":400},
-		{"id":"a389aefc79b01f5b","x":-780,"y":-1280,"width":400,"height":400,"type":"file","file":"bis/polymarket/reddit scraping.md"}
+		{"id":"792370c3857c8888","type":"text","text":"передача события в локальную модель(ли) на уcмотрение","x":-1340,"y":260,"width":280,"height":160},
+		{"id":"48b677e332cc65ee","type":"file","file":"bis/polymarket/запросы/запрос №1.md","x":-1340,"y":560,"width":280,"height":140},
+		{"id":"816ffdf526a6804d","type":"text","text":"запрос одобрен","x":-1020,"y":310,"width":250,"height":60},
+		{"id":"d230117bec14b01b","type":"text","text":"содание таблицы в database под событие","x":-720,"y":310,"width":260,"height":60},
+		{"id":"e815bd036dbee3c8","type":"text","text":"# Источники данных\n1. twitter(x.com)\n2. reddit","x":-1182,"y":-460,"width":325,"height":213},
+		{"id":"12b8018a844e40e1","type":"file","file":"bis/polymarket/scraping/twitter scraping.md","x":-700,"y":-820,"width":290,"height":180},
+		{"id":"a389aefc79b01f5b","type":"file","file":"bis/polymarket/scraping/reddit scraping.md","x":-700,"y":-1160,"width":290,"height":180},
+		{"id":"c9b9d81835ba206e","type":"text","text":"запись события инфомации о событии в database","x":-400,"y":283,"width":320,"height":115},
+		{"id":"b630172bf0942e95","type":"text","text":"# Инфомация событии:\n","x":-520,"y":500,"width":350,"height":159},
+		{"id":"029d6a648b3737a4","type":"text","text":"data\n","x":-720,"y":-120,"width":260,"height":50},
+		{"id":"031310be7a04d522","type":"text","text":"# запись данных в database ","x":-750,"y":25,"width":290,"height":69,"color":"2"},
+		{"id":"29b397a3c205c010","type":"text","text":"нахождени событияв polymarket ","x":-1700,"y":25,"width":260,"height":69,"color":"1"},
+		{"id":"b33cfa70984d8f00","type":"text","text":"# передача в проприетарные модели","x":380,"y":17,"width":263,"height":77},
+		{"id":"222782f1f8206897","type":"text","text":"# список моделей:\n1. GPT-5.4(30.01.26)\n2. Claude Opus 4.6(30.01.26)\n","x":345,"y":166,"width":334,"height":117},
+		{"id":"e9492376a661c775","x":0,"y":500,"width":400,"height":400,"type":"file","file":"bis/polymarket/models/GPT-5.4.md"},
+		{"id":"a3c4df2707d19611","x":643,"y":500,"width":400,"height":400,"type":"file","file":"bis/polymarket/models/Claude Opus 4.6.md"}
 	],
 	"edges":[
-		{"id":"bc779eed95115ec4","fromNode":"029d6a648b3737a4","fromSide":"top","toNode":"d7a41806a7bc342a","toSide":"bottom"},
-		{"id":"8e5a5fc3d8208edd","fromNode":"d7a41806a7bc342a","fromSide":"top","toNode":"a389aefc79b01f5b","toSide":"bottom"}
+		{"id":"6efc833689a0cbc6","fromNode":"29b397a3c205c010","fromSide":"right","toNode":"792370c3857c8888","toSide":"left"},
+		{"id":"87228267430371d3","fromNode":"792370c3857c8888","fromSide":"bottom","toNode":"48b677e332cc65ee","toSide":"top"},
+		{"id":"3451a69c7b92b684","fromNode":"792370c3857c8888","fromSide":"right","toNode":"816ffdf526a6804d","toSide":"left"},
+		{"id":"30172faf2d568119","fromNode":"816ffdf526a6804d","fromSide":"right","toNode":"d230117bec14b01b","toSide":"left"},
+		{"id":"7fb49489c51e8177","fromNode":"029d6a648b3737a4","fromSide":"bottom","toNode":"031310be7a04d522","toSide":"top"},
+		{"id":"66529dd5ef83cb0c","fromNode":"d230117bec14b01b","fromSide":"top","toNode":"031310be7a04d522","toSide":"bottom"},
+		{"id":"56efbf64db711969","fromNode":"e815bd036dbee3c8","fromSide":"bottom","toNode":"029d6a648b3737a4","toSide":"top"},
+		{"id":"ed13b2b2a4a02484","fromNode":"e815bd036dbee3c8","fromSide":"top","toNode":"a389aefc79b01f5b","toSide":"left"},
+		{"id":"581fb8ca7add9dae","fromNode":"e815bd036dbee3c8","fromSide":"top","toNode":"12b8018a844e40e1","toSide":"left"},
+		{"id":"69a50bd99f9616ae","fromNode":"d230117bec14b01b","fromSide":"right","toNode":"c9b9d81835ba206e","toSide":"left"},
+		{"id":"84b42deff9c6674e","fromNode":"c9b9d81835ba206e","fromSide":"top","toNode":"031310be7a04d522","toSide":"bottom"},
+		{"id":"a2197b048d5bff46","fromNode":"c9b9d81835ba206e","fromSide":"bottom","toNode":"b630172bf0942e95","toSide":"top"},
+		{"id":"0b2492a182cda9d0","fromNode":"031310be7a04d522","fromSide":"right","toNode":"b33cfa70984d8f00","toSide":"left"},
+		{"id":"03a4f498e6520e81","fromNode":"b33cfa70984d8f00","fromSide":"bottom","toNode":"222782f1f8206897","toSide":"top"},
+		{"id":"2ddd653d890ce26f","fromNode":"222782f1f8206897","fromSide":"bottom","toNode":"e9492376a661c775","toSide":"top"},
+		{"id":"342139c319d8c121","fromNode":"222782f1f8206897","fromSide":"bottom","toNode":"a3c4df2707d19611","toSide":"top"}
 	]
 }

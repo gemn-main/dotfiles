@@ -123,32 +123,48 @@
             "id": "99a982747a06e177",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "bis/polymarket/reddit scraping.md",
-                "mode": "source",
-                "source": false
+                "file": "bis/polymarket/polytem.canvas",
+                "viewState": {
+                  "x": -532.7610705166753,
+                  "y": 363.88368626910255,
+                  "zoom": -0.47578289857578215
+                }
               },
-              "icon": "lucide-file",
-              "title": "reddit scraping"
+              "icon": "lucide-layout-dashboard",
+              "title": "polytem"
+            }
+          },
+          {
+            "id": "4719eb7380d68403",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "bis/polymarket/polytem.canvas",
+                "viewState": {
+                  "x": 943.0276715849245,
+                  "y": 249.94641235158807,
+                  "zoom": -0.5692338096657192
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "polytem"
             }
           },
           {
             "id": "1f00b560701429d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "получение атрибута.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "получение атрибута"
+              "title": "Новая вкладка"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -310,16 +326,25 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "99a982747a06e177",
+  "active": "4719eb7380d68403",
   "lastOpenFiles": [
+    "bis/polymarket/models/Claude Opus 4.6.md",
+    "bis/polymarket/models/GPT-5.4.md",
+    "scraping/scraping.md",
+    "bis/polymarket/scraping/twitter scraping.md",
+    "bis/polymarket/polytem.canvas",
+    "bis/polymarket/models",
+    "Без названия.md",
+    "bis/polymarket/scraping",
+    "bis/polymarket/запросы/запрос №1.md",
+    "bis/polymarket/запросы",
+    "bis/polymarket/data_poly.md",
+    "bis/polymarket/scraping/reddit scraping.md",
     "утилиты.md",
     "сети.md",
     "информационная безопасность.md",
     "ply twitter account.md",
     "scraping/scraping/BeautifulSoup.md",
-    "bis/polymarket/reddit scraping.md",
-    "bis/polymarket/data_poly.md",
-    "bis/polymarket/polytem.canvas",
     "bis/tigik/tigik.canvas",
     "bis/polymarket",
     "bis/tigik/data.md",
@@ -335,14 +360,7 @@
     "images/Pasted image 20260312172408.png",
     "scraping/scraping/поиск по классу.md",
     "scraping/scraping/получение тега.md",
-    "scraping/scraping.md",
     "scraping/scraping",
-    "scraping/scraping/нахождение первого элемента.md",
-    "scraping/scraping/нахождение всех элементов.md",
-    "scraping/scraping/перебор элементов.md",
-    "scraping/scraping/поиск по атрибутам.md",
-    "Gnu Linux/tresh/продвинутые приемы работы с клавиатурой.md",
-    "books/linux/командная строка linux/командная строка Linux/history.md",
     "scraping",
     "bis/Без названия",
     "bis/tigik",
