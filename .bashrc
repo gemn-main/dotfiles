@@ -5,8 +5,7 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
-export DRIFT_TIMEOUT=180
-
+export DRIFT_TIMEOUT=120
 eval "$(drift shell-init bash)"
 
 alias ls='ls --color=auto'
