@@ -140,14 +140,17 @@
             "id": "4719eb7380d68403",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "утилиты.md",
-                "mode": "source",
-                "source": false
+                "file": "bis/polymarket/polytem.canvas",
+                "viewState": {
+                  "x": 80.98383254726906,
+                  "y": -94.5600477214073,
+                  "zoom": -0.41613580759981406
+                }
               },
-              "icon": "lucide-file",
-              "title": "утилиты"
+              "icon": "lucide-layout-dashboard",
+              "title": "polytem"
             }
           },
           {
@@ -325,22 +328,24 @@
   },
   "active": "4719eb7380d68403",
   "lastOpenFiles": [
+    "bis/polymarket/запросы/запрос №3.md",
+    "bis/polymarket/запросы/запрос №2.md",
+    "bis/polymarket/polytem.canvas",
+    "bis/polymarket/scraping/reddit scraping.md",
+    "bis/polymarket/scraping/twitter scraping.md",
+    "bis/polymarket/models/Claude Opus 4.6.md",
+    "утилиты.md",
     "ply twitter account.md",
     "Без названия.md",
     "информационная безопасность.md",
     "сети.md",
-    "утилиты.md",
-    "bis/polymarket/polytem.canvas",
-    "bis/polymarket/models/Claude Opus 4.6.md",
     "bis/polymarket/models/GPT-5.4.md",
     "scraping/scraping.md",
-    "bis/polymarket/scraping/twitter scraping.md",
     "bis/polymarket/models",
     "bis/polymarket/scraping",
     "bis/polymarket/запросы/запрос №1.md",
     "bis/polymarket/запросы",
     "bis/polymarket/data_poly.md",
-    "bis/polymarket/scraping/reddit scraping.md",
     "scraping/scraping/BeautifulSoup.md",
     "bis/tigik/tigik.canvas",
     "bis/polymarket",
@@ -356,7 +361,6 @@
     "scraping/scraping/CSS селекторы.md",
     "images/Pasted image 20260312172408.png",
     "scraping/scraping/поиск по классу.md",
-    "scraping/scraping/получение тега.md",
     "scraping/scraping",
     "scraping",
     "bis/Без названия",

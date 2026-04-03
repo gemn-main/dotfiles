@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"792370c3857c8888","type":"text","text":"передача события в локальную модель(ли) на уcмотрение","x":-1340,"y":260,"width":280,"height":160},
+		{"id":"792370c3857c8888","type":"text","text":"передача события в  модель на уcмотрение","x":-1340,"y":260,"width":280,"height":160},
 		{"id":"48b677e332cc65ee","type":"file","file":"bis/polymarket/запросы/запрос №1.md","x":-1340,"y":560,"width":280,"height":140},
-		{"id":"816ffdf526a6804d","type":"text","text":"запрос одобрен","x":-1020,"y":310,"width":250,"height":60},
+		{"id":"816ffdf526a6804d","type":"text","text":"запрос одобрен","x":-1020,"y":310,"width":250,"height":60,"color":"4"},
 		{"id":"d230117bec14b01b","type":"text","text":"содание таблицы в database под событие","x":-720,"y":310,"width":260,"height":60},
 		{"id":"e815bd036dbee3c8","type":"text","text":"# Источники данных\n1. twitter(x.com)\n2. reddit","x":-1182,"y":-460,"width":325,"height":213},
 		{"id":"12b8018a844e40e1","type":"file","file":"bis/polymarket/scraping/twitter scraping.md","x":-700,"y":-820,"width":290,"height":180},
@@ -11,14 +11,19 @@
 		{"id":"b630172bf0942e95","type":"text","text":"# Инфомация событии:\n","x":-520,"y":500,"width":350,"height":159},
 		{"id":"029d6a648b3737a4","type":"text","text":"data\n","x":-720,"y":-120,"width":260,"height":50},
 		{"id":"031310be7a04d522","type":"text","text":"# запись данных в database ","x":-750,"y":25,"width":290,"height":69,"color":"2"},
-		{"id":"29b397a3c205c010","type":"text","text":"нахождени событияв polymarket ","x":-1700,"y":25,"width":260,"height":69,"color":"1"},
 		{"id":"b33cfa70984d8f00","type":"text","text":"# передача в проприетарные модели","x":380,"y":17,"width":263,"height":77},
 		{"id":"222782f1f8206897","type":"text","text":"# список моделей:\n1. GPT-5.4(30.01.26)\n2. Claude Opus 4.6(30.01.26)\n","x":345,"y":166,"width":334,"height":117},
-		{"id":"e9492376a661c775","x":0,"y":500,"width":400,"height":400,"type":"file","file":"bis/polymarket/models/GPT-5.4.md"},
-		{"id":"a3c4df2707d19611","x":643,"y":500,"width":400,"height":400,"type":"file","file":"bis/polymarket/models/Claude Opus 4.6.md"}
+		{"id":"e9492376a661c775","type":"file","file":"bis/polymarket/models/GPT-5.4.md","x":0,"y":500,"width":400,"height":400},
+		{"id":"a3c4df2707d19611","type":"file","file":"bis/polymarket/models/Claude Opus 4.6.md","x":643,"y":500,"width":400,"height":400},
+		{"id":"7c5c815d968097ab","type":"file","file":"bis/polymarket/models/GPT-5.4.md","x":-1740,"y":560,"width":260,"height":280},
+		{"id":"29b397a3c205c010","type":"text","text":"нахождени событияв polymarket ","x":-2200,"y":56,"width":260,"height":69,"color":"1"},
+		{"id":"e69c3d25eabf0a69","type":"text","text":"проверка на единоличность","x":-1800,"y":166,"width":250,"height":60},
+		{"id":"3e6316a10b992a68","type":"text","text":"передача в локальную модель для фильтарции информации","x":-170,"y":76,"width":290,"height":90,"color":"4"},
+		{"id":"b1db7307951679e2","x":780,"y":-383,"width":240,"height":320,"type":"file","file":"bis/polymarket/запросы/запрос №3.md"},
+		{"id":"320712f28cd87ca4","x":-235,"y":-335,"width":310,"height":176,"type":"file","file":"bis/polymarket/запросы/запрос №2.md"}
 	],
 	"edges":[
-		{"id":"6efc833689a0cbc6","fromNode":"29b397a3c205c010","fromSide":"right","toNode":"792370c3857c8888","toSide":"left"},
+		{"id":"6efc833689a0cbc6","fromNode":"29b397a3c205c010","fromSide":"right","toNode":"e69c3d25eabf0a69","toSide":"left"},
 		{"id":"87228267430371d3","fromNode":"792370c3857c8888","fromSide":"bottom","toNode":"48b677e332cc65ee","toSide":"top"},
 		{"id":"3451a69c7b92b684","fromNode":"792370c3857c8888","fromSide":"right","toNode":"816ffdf526a6804d","toSide":"left"},
 		{"id":"30172faf2d568119","fromNode":"816ffdf526a6804d","fromSide":"right","toNode":"d230117bec14b01b","toSide":"left"},
@@ -30,9 +35,14 @@
 		{"id":"69a50bd99f9616ae","fromNode":"d230117bec14b01b","fromSide":"right","toNode":"c9b9d81835ba206e","toSide":"left"},
 		{"id":"84b42deff9c6674e","fromNode":"c9b9d81835ba206e","fromSide":"top","toNode":"031310be7a04d522","toSide":"bottom"},
 		{"id":"a2197b048d5bff46","fromNode":"c9b9d81835ba206e","fromSide":"bottom","toNode":"b630172bf0942e95","toSide":"top"},
-		{"id":"0b2492a182cda9d0","fromNode":"031310be7a04d522","fromSide":"right","toNode":"b33cfa70984d8f00","toSide":"left"},
+		{"id":"0b2492a182cda9d0","fromNode":"031310be7a04d522","fromSide":"right","toNode":"3e6316a10b992a68","toSide":"left"},
 		{"id":"03a4f498e6520e81","fromNode":"b33cfa70984d8f00","fromSide":"bottom","toNode":"222782f1f8206897","toSide":"top"},
 		{"id":"2ddd653d890ce26f","fromNode":"222782f1f8206897","fromSide":"bottom","toNode":"e9492376a661c775","toSide":"top"},
-		{"id":"342139c319d8c121","fromNode":"222782f1f8206897","fromSide":"bottom","toNode":"a3c4df2707d19611","toSide":"top"}
+		{"id":"342139c319d8c121","fromNode":"222782f1f8206897","fromSide":"bottom","toNode":"a3c4df2707d19611","toSide":"top"},
+		{"id":"8f4aef46649ec7d5","fromNode":"792370c3857c8888","fromSide":"bottom","toNode":"7c5c815d968097ab","toSide":"top"},
+		{"id":"84a7809d0e05b183","fromNode":"e69c3d25eabf0a69","fromSide":"right","toNode":"792370c3857c8888","toSide":"left"},
+		{"id":"a4d29ca6feaa53d3","fromNode":"3e6316a10b992a68","fromSide":"right","toNode":"b33cfa70984d8f00","toSide":"left"},
+		{"id":"4673e80b81a1bcf9","fromNode":"3e6316a10b992a68","fromSide":"top","toNode":"320712f28cd87ca4","toSide":"bottom"},
+		{"id":"bda3d6b192809ddf","fromNode":"b33cfa70984d8f00","fromSide":"right","toNode":"b1db7307951679e2","toSide":"bottom"}
 	]
 }
