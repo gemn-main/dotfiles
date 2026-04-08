@@ -140,17 +140,14 @@
             "id": "4719eb7380d68403",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "bis/polymarket/polytem.canvas",
-                "viewState": {
-                  "x": 80.98383254726906,
-                  "y": -94.5600477214073,
-                  "zoom": -0.41613580759981406
-                }
+                "file": "bis/polymarket/models/GPT-5.4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "polytem"
+              "icon": "lucide-file",
+              "title": "GPT-5.4"
             }
           },
           {
@@ -328,9 +325,9 @@
   },
   "active": "4719eb7380d68403",
   "lastOpenFiles": [
+    "bis/polymarket/polytem.canvas",
     "bis/polymarket/запросы/запрос №3.md",
     "bis/polymarket/запросы/запрос №2.md",
-    "bis/polymarket/polytem.canvas",
     "bis/polymarket/scraping/reddit scraping.md",
     "bis/polymarket/scraping/twitter scraping.md",
     "bis/polymarket/models/Claude Opus 4.6.md",
@@ -360,7 +357,6 @@
     "scraping/scraping/извлечение текста.md",
     "scraping/scraping/CSS селекторы.md",
     "images/Pasted image 20260312172408.png",
-    "scraping/scraping/поиск по классу.md",
     "scraping/scraping",
     "scraping",
     "bis/Без названия",
