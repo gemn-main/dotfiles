@@ -26,7 +26,8 @@ if not vim.loop.fs_stat(lazypath) then
   })
 end
 vim.opt.rtp:prepend(lazypath)
-
+vim.o.foldmethod = "indent"
+vim.o.foldlevel = 99
 -- Настройка плагинов
 require("lazy").setup({
   {
