@@ -159,12 +159,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "утилиты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "утилиты"
             }
           },
           {
@@ -342,8 +342,10 @@
   },
   "active": "febb6362676c80de",
   "lastOpenFiles": [
-    "bis/polymarket/polytem.canvas",
+    "сети.md",
+    "информационная безопасность.md",
     "Без названия.md",
+    "bis/polymarket/polytem.canvas",
     "ply twitter account.md",
     "Gnu Linux/продвинутые приемы работы с клавиатурой.md",
     "Gnu Linux/tresh/цензура.md",
@@ -367,7 +369,6 @@
     "Gnu Linux/tresh/palan.md",
     "Gnu Linux/tresh/mean 0 std 1.md",
     "Gnu Linux/tresh/leetttcooooodeee.md",
-    "Gnu Linux/tresh/jupyter themes.md",
     "bis/polymarket/models",
     "bis/polymarket/scraping",
     "bis/polymarket/запросы",
