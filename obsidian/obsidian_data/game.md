@@ -193,7 +193,6 @@ Alan Wake 2
 Control
 Detroit: Become Human
 Death Stranding
-Ghost of Tsushima
 Marvel's Spider-Man Remastered
 The Last of Us Part I
 The Last of Us Part II
