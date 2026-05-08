@@ -179,3 +179,44 @@ funpay
 ---
 
 **Коротко о выборе:** если нужна русскоязычная аудитория — Playerok, Plati.Market или GGSEL. Если интересен международный рынок — G2A, Z2U или PlayerAuctions.
+
+
+
+полностью offline 
+Cyberpunk 2077
+The Witcher 3: Wild Hunt
+Sekiro: Shadows Die Twice
+God of War
+God of War Ragnarök
+Resident Evil 4
+Alan Wake 2
+Control
+Detroit: Become Human
+Death Stranding
+Ghost of Tsushima
+Marvel's Spider-Man Remastered
+The Last of Us Part I
+The Last of Us Part II
+A Plague Tale: Requiem
+Metro Exodus
+Dead Space
+SOMA
+Signalis
+MiSide
+Disco Elysium
+Outer Wilds
+Firewatch
+Inside
+Journey
+Ori and the Will of the Wisps
+Hollow Knight
+Subnautica
+Kingdom Come: Deliverance
+Kingdom Come: Deliverance II
+Like a Dragon: Infinite Wealth
+Persona 5 Royal
+Clair Obscur: Expedition 33
+Blue Prince
+Black Myth: Wukong
+Balatro
+Slay the Spire

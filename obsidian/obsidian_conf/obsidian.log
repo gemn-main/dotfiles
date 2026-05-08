@@ -744,3 +744,11 @@
 2026-05-08 10:32:36 Success.
 2026-05-08 10:32:36 Latest version is 1.12.7
 2026-05-08 10:32:36 App is up to date.
+2026-05-08 11:32:36 Checking for update using Github
+2026-05-08 11:32:37 Success.
+2026-05-08 11:32:37 Latest version is 1.12.7
+2026-05-08 11:32:37 App is up to date.
+2026-05-08 12:32:36 Checking for update using Github
+2026-05-08 12:33:06 Failed to check for update using Github (net::ERR_TIMED_OUT)
+2026-05-08 12:33:06 Checking for update using obsidian.md
+2026-05-08 12:33:07 Failed to check for update using obsidian.md (Unexpected end of JSON input)
