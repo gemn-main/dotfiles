@@ -187,12 +187,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game.md",
+                "file": "утилиты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "game"
+              "title": "утилиты"
             }
           },
           {
@@ -370,14 +370,14 @@
   },
   "active": "3712b8b4a5ac2d38",
   "lastOpenFiles": [
-    "Без названия 1.md",
-    "game.md",
-    "утилиты.md",
     "сети.md",
+    "Без названия 1.md",
     "информационная безопасность.md",
     "Без названия.md",
-    "bis/polymarket/polytem.canvas",
     "ply twitter account.md",
+    "game.md",
+    "утилиты.md",
+    "bis/polymarket/polytem.canvas",
     "Gnu Linux/продвинутые приемы работы с клавиатурой.md",
     "Gnu Linux/tresh/цензура.md",
     "Gnu Linux/tresh/стрижка.md",
