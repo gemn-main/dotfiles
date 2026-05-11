@@ -187,12 +187,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия 1.md",
+                "file": "game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия 1"
+              "title": "game"
             }
           },
           {
@@ -370,8 +370,8 @@
   },
   "active": "3712b8b4a5ac2d38",
   "lastOpenFiles": [
-    "game.md",
     "Без названия 1.md",
+    "game.md",
     "утилиты.md",
     "сети.md",
     "информационная безопасность.md",
