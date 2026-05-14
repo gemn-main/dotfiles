@@ -1,3 +1,3 @@
-2026/05/12-21:11:39.600 abae Reusing MANIFEST /home/user/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2026/05/12-21:11:39.600 abae Recovering log #20
-2026/05/12-21:11:39.606 abae Reusing old log /home/user/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000020.log 
+2026/05/13-15:39:16.065 9179 Reusing MANIFEST /home/user/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/13-15:39:16.065 9179 Recovering log #20
+2026/05/13-15:39:16.075 9179 Reusing old log /home/user/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000020.log 
