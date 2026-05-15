@@ -35,7 +35,8 @@
               "title": "утилиты"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,10 +198,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "3712b8b4a5ac2d38",
+  "active": "1f00b560701429d8",
   "lastOpenFiles": [
-    "утилиты.md",
     "game.md",
+    "утилиты.md",
     "bis/polymarket/polytem.canvas",
     "scraping/scraping/получение атрибута.md",
     "scraping/scraping/CSS селекторы.md",
