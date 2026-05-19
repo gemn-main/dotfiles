@@ -8,10 +8,8 @@ vim.opt.relativenumber = false
 vim.opt.tabstop = 4
 vim.opt.shiftwidth = 4
 vim.opt.clipboard = 'unnamedplus'
-
--- Прозрачность
-vim.api.nvim_set_hl(0, "Normal", { bg = "none" })
-vim.api.nvim_set_hl(0, "NormalFloat", { bg = "none" })
+vim.o.foldmethod = "indent"
+vim.o.foldlevel = 99
 
 -- Автоустановка Lazy.nvim
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
@@ -26,49 +24,92 @@ if not vim.loop.fs_stat(lazypath) then
   })
 end
 vim.opt.rtp:prepend(lazypath)
-vim.o.foldmethod = "indent"
-vim.o.foldlevel = 99
+
 -- Настройка плагинов
 require("lazy").setup({
+
+  -- Тема
   {
     "catppuccin/nvim",
     name = "catppuccin",
     priority = 1000,
     config = function()
-      -- Минимальная конфигурация Catppuccin БЕЗ интеграций
       require("catppuccin").setup({
         flavour = "mocha",
         transparent_background = true,
-        no_integrations = true  -- Отключаем ВСЕ интеграции
+        no_integrations = true
       })
       vim.cmd.colorscheme("catppuccin")
+      -- Прозрачность
+      vim.api.nvim_set_hl(0, "Normal", { bg = "none" })
+      vim.api.nvim_set_hl(0, "NormalFloat", { bg = "none" })
     end
   },
+
+  -- LSP
+  {
+    "neovim/nvim-lspconfig",
+    config = function()
+      require("lspconfig").pyright.setup({})
+    end
+  },
+
+  -- Автодополнение
+  {
+    "hrsh7th/nvim-cmp",
+    dependencies = {
+      "hrsh7th/cmp-nvim-lsp",
+    },
+    config = function()
+      local cmp = require("cmp")
+      cmp.setup({
+        mapping = cmp.mapping.preset.insert({
+          ["<Tab>"]     = cmp.mapping.select_next_item(),
+          ["<S-Tab>"]   = cmp.mapping.select_prev_item(),
+          ["<CR>"]      = cmp.mapping.confirm({ select = true }),
+          ["<C-Space>"] = cmp.mapping.complete(),
+        }),
+        sources = {
+          { name = "nvim_lsp" },
+        },
+      })
+    end
+  },
+
+  -- Строка статуса
   {
     "nvim-lualine/lualine.nvim",
     dependencies = { "nvim-tree/nvim-web-devicons" },
     config = function()
-      -- Базовая настройка Lualine
       require("lualine").setup({
-        options = {
-          theme = "auto"  -- Автоматически подхватит Catppuccin
-        }
+        options = { theme = "auto" }
       })
     end
   },
+
+  -- Подсветка синтаксиса
   {
     "nvim-treesitter/nvim-treesitter",
-    build = ":TSUpdate"
+    build = ":TSUpdate",
+    config = function()
+      require("nvim-treesitter.configs").setup({
+        ensure_installed = { "python", "lua" },
+        highlight = { enable = true },
+      })
+    end
   },
+
+  -- Комментирование
   {
     "numToStr/Comment.nvim",
     config = function()
       require("Comment").setup()
     end
-  }
+  },
+
 })
 
--- Базовые горячие клавиши
+-- Горячие клавиши
 local keymap = vim.keymap
 keymap.set("n", "<leader>e", ":Lex 30<CR>")
 keymap.set("n", "<C-s>", ":w<CR>")
