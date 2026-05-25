@@ -139,3 +139,30 @@ tooltip {
         color: #1e1e2e;
     }
 }
+
+
+#custom-btc {
+    padding: 0 10px;
+    font-size: 13px;
+    color: #cdd6f4;
+    background: transparent;
+}
+ 
+#custom-btc.up {
+    color: #a6e3a1;   /* зелёный — Catppuccin Green */
+}
+ 
+#custom-btc.down {
+    color: #f38ba8;   /* красный — Catppuccin Red */
+}
+ 
+#custom-btc.neutral {
+    color: #cdd6f4;   /* белый — Catppuccin Text */
+}
+ 
+#custom-btc.error {
+    color: #f38ba8;
+    opacity: 0.6;
+}
+ 
+

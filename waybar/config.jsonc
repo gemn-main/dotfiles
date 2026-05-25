@@ -11,6 +11,7 @@
   ],
   "modules-right": [
     "custom/weather",
+	"custom/btc",
     "network",
     "pulseaudio",
     "cpu",
@@ -75,5 +76,12 @@
     "format": " {:%H:%M}",
     "on-click": "~/.config/waybar/calendar.sh",
     "tooltip": false
+  },
+  "custom/btc": {
+    "exec": "~/.config/waybar/scripts/BTC.sh USD $",
+    "return-type": "json",
+    "interval": 60,
+    "tooltip": true,
+    "on-click": "xdg-open https://www.coingecko.com/en/coins/bitcoin"
   }
 }
