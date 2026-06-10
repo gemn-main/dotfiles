@@ -1,3 +1,6 @@
-2026/06/09-18:05:41.922 d37 Reusing MANIFEST /home/user/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2026/06/09-18:05:41.922 d37 Recovering log #20
-2026/06/09-18:05:41.947 d37 Reusing old log /home/user/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000020.log 
+2026/06/10-14:42:08.974 b02b Reusing MANIFEST /home/user/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/10-14:42:08.974 b02b Recovering log #20
+2026/06/10-14:42:09.005 b02b Reusing old log /home/user/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000020.log 
+2026/06/10-14:43:09.051 b02b Level-0 table #26: started
+2026/06/10-14:43:09.083 b02b Level-0 table #26: 1246254 bytes OK
+2026/06/10-14:43:09.084 b02b Delete type=0 #20
