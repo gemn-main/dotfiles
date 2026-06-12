@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "обход.md",
+                "file": "для НТО.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "обход"
+              "title": "для НТО"
             }
           }
         ],
@@ -228,13 +228,14 @@
   },
   "active": "3394233969b49278",
   "lastOpenFiles": [
-    "hetzner.md",
+    "ply twitter account.md",
     "Pasted image 20260612165334.png",
+    "hetzner.md",
+    "game.md",
+    "scraping/scraping.md",
     "обход.md",
     "информационная безопасность.md",
     "для НТО.md",
-    "ply twitter account.md",
-    "game.md",
     "Без названия 1.md",
     "Pasted image 20260530195334.png",
     "Pasted image 20260531195950.png",
@@ -251,7 +252,6 @@
     "scraping/scraping/CSS селекторы.md",
     "сети.md",
     "Gnu Linux/tresh/цензура.md",
-    "scraping/scraping.md",
     "Gnu Linux/продвинутые приемы работы с клавиатурой.md",
     "Gnu Linux/tresh/стрижка.md",
     "Gnu Linux/tresh/изменение текста.md",
