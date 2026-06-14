@@ -1117,3 +1117,12 @@
 2026-06-14 05:30:31 Success.
 2026-06-14 05:30:31 Latest version is 1.12.7
 2026-06-14 05:30:31 App is up to date.
+2026-06-14 07:44:24 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-06-14 07:44:24 Checking for update using Github
+2026-06-14 07:44:25 Success.
+2026-06-14 07:44:25 Latest version is 1.12.7
+2026-06-14 07:44:25 App is up to date.
+2026-06-14 08:44:24 Checking for update using Github
+2026-06-14 08:44:42 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
+2026-06-14 08:44:42 Checking for update using obsidian.md
+2026-06-14 08:44:42 Failed to check for update using obsidian.md (Unexpected end of JSON input)
