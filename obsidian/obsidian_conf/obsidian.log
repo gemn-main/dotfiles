@@ -1126,3 +1126,11 @@
 2026-06-14 08:44:42 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
 2026-06-14 08:44:42 Checking for update using obsidian.md
 2026-06-14 08:44:42 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-06-14 09:44:24 Checking for update using Github
+2026-06-14 09:44:25 Success.
+2026-06-14 09:44:25 Latest version is 1.12.7
+2026-06-14 09:44:25 App is up to date.
+2026-06-14 10:44:24 Checking for update using Github
+2026-06-14 10:44:25 Success.
+2026-06-14 10:44:25 Latest version is 1.12.7
+2026-06-14 10:44:25 App is up to date.
