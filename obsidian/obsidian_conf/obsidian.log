@@ -1192,3 +1192,8 @@
 2026-06-15 13:38:27 Success.
 2026-06-15 13:38:27 Latest version is 1.12.7
 2026-06-15 13:38:27 App is up to date.
+2026-06-16 10:04:19 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-06-16 10:04:20 Checking for update using Github
+2026-06-16 10:04:41 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
+2026-06-16 10:04:41 Checking for update using obsidian.md
+2026-06-16 10:05:11 Failed to check for update using obsidian.md (net::ERR_TIMED_OUT)
