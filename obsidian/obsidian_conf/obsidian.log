@@ -1197,3 +1197,11 @@
 2026-06-16 10:04:41 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
 2026-06-16 10:04:41 Checking for update using obsidian.md
 2026-06-16 10:05:11 Failed to check for update using obsidian.md (net::ERR_TIMED_OUT)
+2026-06-16 11:04:19 Checking for update using Github
+2026-06-16 11:04:20 Success.
+2026-06-16 11:04:20 Latest version is 1.12.7
+2026-06-16 11:04:20 App is up to date.
+2026-06-16 12:04:20 Checking for update using Github
+2026-06-16 12:04:20 Success.
+2026-06-16 12:04:20 Latest version is 1.12.7
+2026-06-16 12:04:20 App is up to date.
