@@ -1255,3 +1255,12 @@
 2026-06-17 10:35:58 Failed to check for update using Github (net::ERR_TIMED_OUT)
 2026-06-17 10:35:58 Checking for update using obsidian.md
 2026-06-17 10:35:58 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-06-17 11:14:41 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-06-17 11:14:41 Checking for update using Github
+2026-06-17 11:14:41 Success.
+2026-06-17 11:14:41 Latest version is 1.12.7
+2026-06-17 11:14:41 App is up to date.
+2026-06-17 12:14:41 Checking for update using Github
+2026-06-17 12:14:41 Success.
+2026-06-17 12:14:41 Latest version is 1.12.7
+2026-06-17 12:14:41 App is up to date.
