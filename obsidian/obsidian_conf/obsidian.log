@@ -1327,3 +1327,11 @@
 2026-06-19 04:00:40 Success.
 2026-06-19 04:00:40 Latest version is 1.12.7
 2026-06-19 04:00:40 App is up to date.
+2026-06-19 05:00:39 Checking for update using Github
+2026-06-19 05:01:09 Failed to check for update using Github (net::ERR_TIMED_OUT)
+2026-06-19 05:01:09 Checking for update using obsidian.md
+2026-06-19 05:01:09 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-06-19 06:00:39 Checking for update using Github
+2026-06-19 06:00:39 Success.
+2026-06-19 06:00:39 Latest version is 1.12.7
+2026-06-19 06:00:39 App is up to date.
