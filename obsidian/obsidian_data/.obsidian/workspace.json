@@ -41,30 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "обход.md",
+                "file": "bis/polymarket/poly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "обход"
-            }
-          },
-          {
-            "id": "3394233969b49278",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "обход.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "обход"
+              "title": "poly"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,10 +212,17 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "3394233969b49278",
+  "active": "d9f814836c03cc6b",
   "lastOpenFiles": [
-    "для НТО.md",
+    "bis/polymarket/polytem.canvas",
+    "bis/polymarket/poly.md",
+    "bis/polymarket/scraping/twitter scraping.md",
+    "bis/polymarket/scraping/reddit scraping.md",
+    "bis/polymarket/models/GPT-5.4.md",
+    "bis/polymarket/models/Claude Opus 4.6.md",
+    "Без названия.md",
     "обход.md",
+    "для НТО.md",
     "ply twitter account.md",
     "Pasted image 20260612165334.png",
     "hetzner.md",
@@ -247,7 +240,6 @@
     "Pasted image 20260606002408.png",
     "Pasted image 20260606002401.png",
     "утилиты.md",
-    "bis/polymarket/polytem.canvas",
     "scraping/scraping/получение атрибута.md",
     "scraping/scraping/CSS селекторы.md",
     "сети.md",
@@ -258,12 +250,6 @@
     "Gnu Linux/tresh/подстановка(expansion).md",
     "Gnu Linux/tresh/правильное чтение.md",
     "Gnu Linux/tresh/перемещение курсора.md",
-    "Gnu Linux/tresh/план тренировки.md",
-    "Gnu Linux/tresh/какаха 1.md",
-    "Gnu Linux/tresh/Оконные менеджеры.md",
-    "Gnu Linux/tresh/какаха.md",
-    "Gnu Linux/tresh/двойные и одинарные кавычки echo.md",
-    "Gnu Linux/tresh/добавки.md",
     "bis/polymarket/models",
     "bis/polymarket/scraping",
     "bis/polymarket/запросы",
