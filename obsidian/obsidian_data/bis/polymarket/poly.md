@@ -12,3 +12,11 @@ current
 - l0hbPaPR8kYv3xA75_HBnVrpBxXCpZ3PBtIqCj61xCa1eycz2
 
 
+
+
+
+roborock S8 Pro+
+
+# ECOVACS DEEBOT N20 PRO PLUS
+
+Ecovacs DEEBOT T30 PRO OMNI
