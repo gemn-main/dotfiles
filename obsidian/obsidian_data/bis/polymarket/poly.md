@@ -20,3 +20,5 @@ roborock S8 Pro+
 # ECOVACS DEEBOT N20 PRO PLUS
 
 Ecovacs DEEBOT T30 PRO OMNI
+
+# Xiaomi Mi Omni lnfinite Robot Vacuum 5C (Модель OV42CN)
