@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bis/polymarket/poly.md",
+                "file": "информационная безопасность.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "poly"
+              "title": "информационная безопасность"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grep",
+                "query": "fireja",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,8 +215,8 @@
   },
   "active": "d9f814836c03cc6b",
   "lastOpenFiles": [
-    "bis/polymarket/polytem.canvas",
     "bis/polymarket/poly.md",
+    "bis/polymarket/polytem.canvas",
     "bis/polymarket/scraping/twitter scraping.md",
     "bis/polymarket/scraping/reddit scraping.md",
     "bis/polymarket/models/GPT-5.4.md",
