@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "информационная безопасность.md",
+                "file": "Gnu Linux/tresh/какаха 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "информационная безопасность"
+              "title": "какаха 1"
             }
           }
         ],
@@ -212,8 +212,17 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "a057b0e9f94dd7e4",
+  "active": "d9f814836c03cc6b",
   "lastOpenFiles": [
+    "Gnu Linux/tresh/подстановка(expansion).md",
+    "Gnu Linux/tresh/цензура.md",
+    "Gnu Linux/tresh/расписуха.md",
+    "Gnu Linux/tresh/двойные и одинарные кавычки echo.md",
+    "Gnu Linux/tresh/вырезание и вставка.md",
+    "Gnu Linux/tresh/времена.md",
+    "Gnu Linux/tresh/resurs.md",
+    "Gnu Linux/tresh/prog.md",
+    "информационная безопасность.md",
     "Pasted image 20260702111410.png",
     "bis/polymarket/poly.md",
     "bis/polymarket/polytem.canvas",
@@ -229,7 +238,6 @@
     "hetzner.md",
     "game.md",
     "scraping/scraping.md",
-    "информационная безопасность.md",
     "Без названия 1.md",
     "Pasted image 20260530195334.png",
     "Pasted image 20260531195950.png",
@@ -239,18 +247,10 @@
     "Pasted image 20260606002453.png",
     "Pasted image 20260606002447.png",
     "Pasted image 20260606002408.png",
-    "Pasted image 20260606002401.png",
     "утилиты.md",
     "scraping/scraping/получение атрибута.md",
     "scraping/scraping/CSS селекторы.md",
     "сети.md",
-    "Gnu Linux/tresh/цензура.md",
-    "Gnu Linux/продвинутые приемы работы с клавиатурой.md",
-    "Gnu Linux/tresh/стрижка.md",
-    "Gnu Linux/tresh/изменение текста.md",
-    "Gnu Linux/tresh/подстановка(expansion).md",
-    "Gnu Linux/tresh/правильное чтение.md",
-    "Gnu Linux/tresh/перемещение курсора.md",
     "bis/polymarket/models",
     "bis/polymarket/scraping",
     "bis/polymarket/запросы",
