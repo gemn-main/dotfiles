@@ -39,14 +39,12 @@
             "id": "d9f814836c03cc6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "информационная безопасность.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20260612165334.png"
               },
-              "icon": "lucide-file",
-              "title": "информационная безопасность"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260612165334"
             }
           }
         ],
@@ -212,8 +210,11 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "d9f814836c03cc6b",
+  "active": "a057b0e9f94dd7e4",
   "lastOpenFiles": [
+    "Pasted image 20260612165334.png",
+    "информационная безопасность.md",
+    "Pasted image 20260702111410.png",
     "Gnu Linux/tresh/перемещение курсора.md",
     "Gnu Linux/tresh/какаха 1.md",
     "Gnu Linux/tresh/подстановка(expansion).md",
@@ -224,8 +225,6 @@
     "Gnu Linux/tresh/времена.md",
     "Gnu Linux/tresh/resurs.md",
     "Gnu Linux/tresh/prog.md",
-    "информационная безопасность.md",
-    "Pasted image 20260702111410.png",
     "bis/polymarket/poly.md",
     "bis/polymarket/polytem.canvas",
     "bis/polymarket/scraping/twitter scraping.md",
@@ -236,7 +235,6 @@
     "обход.md",
     "для НТО.md",
     "ply twitter account.md",
-    "Pasted image 20260612165334.png",
     "hetzner.md",
     "game.md",
     "scraping/scraping.md",
@@ -250,7 +248,6 @@
     "Pasted image 20260606002447.png",
     "Pasted image 20260606002408.png",
     "утилиты.md",
-    "scraping/scraping/получение атрибута.md",
     "bis/polymarket/models",
     "bis/polymarket/scraping",
     "bis/polymarket/запросы",
