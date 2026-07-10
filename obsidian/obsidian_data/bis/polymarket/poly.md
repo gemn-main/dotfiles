@@ -1,22 +1,44 @@
-- создать api  ключи (D) 
 - паралельные запросы для deepseek
 - обработчик запросов в poly 
-- замена api ключей
-- 
 
 
-gnews:
-- bc5b804abf6764e7faf9f0c7f32e9396
-- b0a0827d853eb29d3c1afcdedc76c7c3
-- 7d853e8c3a994f8061abbccfbedcc401
 
 
-current:
-- vMC5A6HSZe1ca2_wn4gBma1QnyMgBObXCgrLhjS50GeeSDX7
-- yNvjTteSi65VM0tEcM0LmNsQzoSa610aFmmipdrez_xOzbqX
-- l0hbPaPR8kYv3xA75_HBnVrpBxXCpZ3PBtIqCj61xCa1eycz2
 
+gnew:  
+cdbca309e3936b5089e8de6d6a682d8e
+c4a4ef2c508d2e77f46954860fa5c0c3
+a7c95679558bcb54d700e7f95e0e30b1
+86c894d912253113e2b148a566696ed8
+de9899337d151c65f3aa2c81d84dab78
+9fe2b5019008accd5de6d48bd7019bbb
+e8cfb3a4de6b41b5083be0e33c7faf25
+66f893a45db9572a468c223f84aa0610
+5cb9c7459219b091987c78d236c6fe95
+f18898b7692256f1b24d8fcdebf7538e
+bc5b804abf6764e7faf9f0c7f32e9396
+b0a0827d853eb29d3c1afcdedc76c7c3
+7d853e8c3a994f8061abbccfbedcc401
+
+
+currents:
+R1kR4XdtAKeozQmzaoe34TNFhDQgBSIGzJaU295Io6DVySF2
+BG6NU36rim2WDp15GqKYs2v-HExOh77eJai-Fsz927U87feX
+hJfJ-Ay7rx3CMvd_9dBJj8982xVxNqD8nl3iEd61tJZFfj69
+Kdku_krrDdZwSbVXMarxMoOwEPB5TUhbiv9keBgPAkc5gHYt
+ukf4UMMupPBc8Xe6dd8E1wTpPrB6TH1bk19NcoQ0tcO1bs8U
+iOBBEOc3FpXNjm-QlxaDyTE901924iVdX-6osagFLSMgvXF2
+3FLKWxvo6AIJ-4GryRwGdUBePtkjl5wqxJKpZu4l7aBfU3Pz
+h7wjkj2CcEAU7vM7OnsLJElilPvWiqyOrRlhg4JhBsISgunb
+MXp68Xgth3p0P0wBN_yl7WU_Sjg-yyIWRtKyLhEmIh3jrdvd
+mn_h83K0yWSd1fp7AQH-WjflD8mEPEPOm00aZpUw-K30QPN7
+vMC5A6HSZe1ca2_wn4gBma1QnyMgBObXCgrLhjS50GeeSDX7
+yNvjTteSi65VM0tEcM0LmNsQzoSa610aFmmipdrez_xOzbqX
+l0hbPaPR8kYv3xA75_HBnVrpBxXCpZ3PBtIqCj61xCa1eycz2
 
 
 serper:
-- 
+5f402b59673575da20d6c231ba6c658be2aaa912
+67b5436ccb4287b6396b581e1ee117cd26724869
+
+
