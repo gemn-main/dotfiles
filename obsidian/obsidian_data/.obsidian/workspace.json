@@ -39,12 +39,14 @@
             "id": "d9f814836c03cc6b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260612165334.png"
+                "file": "bis/polymarket/poly.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260612165334"
+              "icon": "lucide-file",
+              "title": "poly"
             }
           }
         ],
@@ -210,7 +212,7 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "a057b0e9f94dd7e4",
+  "active": "d9f814836c03cc6b",
   "lastOpenFiles": [
     "Pasted image 20260612165334.png",
     "информационная безопасность.md",
