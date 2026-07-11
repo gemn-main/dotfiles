@@ -1,6 +1,6 @@
 - паралельные запросы для deepseek
 - обработчик запросов в poly 
-
+- убрать паралельность для новостей 
 
 
 
@@ -40,5 +40,7 @@ l0hbPaPR8kYv3xA75_HBnVrpBxXCpZ3PBtIqCj61xCa1eycz2
 serper:
 5f402b59673575da20d6c231ba6c658be2aaa912
 67b5436ccb4287b6396b581e1ee117cd26724869
+adeaf2f9a9d62eb32ce643128948e771b0679f26
+
 
 
