@@ -38,9 +38,9 @@
    },*/
   
   "network": {
-    "format-wifi": " {essid}",
-    "format-ethernet": " Ethernet",
-    "format-disconnected": "⚠ Disconnected",
+    "format-wifi": "{essid}",
+    "format-ethernet": "Ethernet",
+    "format-disconnected": "󰤫Disconnected",
     "tooltip": false
   },
   
@@ -62,7 +62,7 @@
   },
   
   "memory": {
-    "format": " {used:0.1f}G",
+    "format": "󱀤{used:0.1f}G",
     "tooltip": false
   },
   
