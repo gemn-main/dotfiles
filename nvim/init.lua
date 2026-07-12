@@ -45,36 +45,32 @@ require("lazy").setup({
       vim.api.nvim_set_hl(0, "NormalFloat", { bg = "none" })
     end
   },
-  --
-  -- -- LSP
-  -- {
-  --   "neovim/nvim-lspconfig",
-  --   config = function()
-  --     require("lspconfig").pyright.setup({})
-  --   end
-  -- },
-  --
-  -- -- Автодополнение
-  -- {
-  --   "hrsh7th/nvim-cmp",
-  --   dependencies = {
-  --     "hrsh7th/cmp-nvim-lsp",
-  --   },
-  --   config = function()
-  --     local cmp = require("cmp")
-  --     cmp.setup({
-  --       mapping = cmp.mapping.preset.insert({
-  --         ["<Tab>"]     = cmp.mapping.select_next_item(),
-  --         ["<S-Tab>"]   = cmp.mapping.select_prev_item(),
-  --         ["<CR>"]      = cmp.mapping.confirm({ select = true }),
-  --         ["<C-Space>"] = cmp.mapping.complete(),
-  --       }),
-  --       sources = {
-  --         { name = "nvim_lsp" },
-  --       },
-  --     })
-  --   end
-  -- },
+
+
+{
+    "hrsh7th/nvim-cmp",
+    dependencies = {
+        "hrsh7th/cmp-nvim-lsp",
+        "hrsh7th/cmp-buffer",
+    },
+    config = function()
+        local cmp = require("cmp")
+
+        cmp.setup({
+            mapping = cmp.mapping.preset.insert({
+                ["<Tab>"] = cmp.mapping.select_next_item(),
+                ["<S-Tab>"] = cmp.mapping.select_prev_item(),
+                ["<CR>"] = cmp.mapping.confirm({ select = true }),
+                ["<C-Space>"] = cmp.mapping.complete(),
+            }),
+
+            sources = {
+                { name = "nvim_lsp" }, -- умные подсказки Python
+                { name = "buffer" },   -- слова из файла
+            },
+        })
+    end,
+},
 
   -- Строка статуса
   {
@@ -109,6 +105,7 @@ require("lazy").setup({
 
 })
 
+
 -- Горячие клавиши
 local keymap = vim.keymap
 keymap.set("n", "<leader>e", ":Lex 30<CR>")
@@ -116,3 +113,7 @@ keymap.set("n", "<C-s>", ":w<CR>")
 keymap.set("n", "<C-q>", ":q<CR>")
 keymap.set("n", "<leader>/", "<cmd>lua require('Comment.api').toggle.linewise.current()<CR>")
 keymap.set("v", "<leader>/", "<esc><cmd>lua require('Comment.api').toggle.linewise(vim.fn.visualmode())<CR>")
+
+
+
+
