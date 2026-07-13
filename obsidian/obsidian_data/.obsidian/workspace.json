@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "удаление строки pandas.md",
+                "file": "pandas/pandas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "удаление строки pandas"
+              "title": "pandas"
             }
           },
           {
@@ -284,15 +284,15 @@
   },
   "active": "d9f814836c03cc6b",
   "lastOpenFiles": [
-    "pandas/pandas.md",
-    "groupby.md",
     "фильтрация.md",
+    "pandas/pandas.md",
+    "добавление нового стобца.md",
+    "удаление строки pandas.md",
+    "groupby.md",
     "вывод данных pandas.md",
     "чтение данные pandas.md",
     "создание dataframe.md",
     "для НТО.md",
-    "удаление строки pandas.md",
-    "добавление нового стобца.md",
     "Gnu Linux/tresh/palan.md",
     "pandas",
     "bis/polymarket/poly.md",
