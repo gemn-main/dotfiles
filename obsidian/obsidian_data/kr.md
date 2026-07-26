@@ -10,3 +10,7 @@ https://cloud.mail.ru/public/1syC/KMG7CJ7M2
 
 
 https://www.youtube.com/watch?v=E_7ggBWYSWQ&t=137s
+
+
+eng 
+https://cloud.mail.ru/public/GQfU/4zBv1mskt
