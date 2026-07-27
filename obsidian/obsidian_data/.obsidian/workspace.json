@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kr.md",
+                "file": "scitik-learn/scikit-learn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kr"
+              "title": "scikit-learn"
             }
           },
           {
@@ -298,23 +298,28 @@
   },
   "active": "bb837f973e3eec3a",
   "lastOpenFiles": [
-    "обход.md",
+    "для НТО.md",
+    "scitik-learn/scikit-learn.md",
+    "scitik-learn",
+    "вывод данных pandas.md",
+    "ply twitter account.md",
+    "Pasted image 20260612165334.png",
     "kr.md",
+    "game.md",
     "groupby.md",
+    "hetzner.md",
+    "scraping/scraping.md",
+    "обход.md",
     "фильтрация.md",
     "pandas/pandas.md",
     "добавление нового стобца.md",
     "удаление строки pandas.md",
-    "вывод данных pandas.md",
     "чтение данные pandas.md",
     "создание dataframe.md",
-    "для НТО.md",
     "Gnu Linux/tresh/palan.md",
     "pandas",
     "bis/polymarket/poly.md",
-    "ply twitter account.md",
     "sdfasfdaf.md",
-    "Pasted image 20260612165334.png",
     "информационная безопасность.md",
     "Pasted image 20260702111410.png",
     "Gnu Linux/tresh/перемещение курсора.md",
@@ -323,10 +328,6 @@
     "Gnu Linux/tresh/цензура.md",
     "Gnu Linux/tresh/расписуха.md",
     "Gnu Linux/tresh/двойные и одинарные кавычки echo.md",
-    "Gnu Linux/tresh/вырезание и вставка.md",
-    "Gnu Linux/tresh/времена.md",
-    "Gnu Linux/tresh/resurs.md",
-    "Gnu Linux/tresh/prog.md",
     "bis/polymarket/polytem.canvas",
     "Pasted image 20260530195334.png",
     "Pasted image 20260531195950.png",
@@ -344,7 +345,6 @@
     "scraping/scraping",
     "scraping",
     "bis/Без названия",
-    "bis/tigik",
-    "bis"
+    "bis/tigik"
   ]
 }
