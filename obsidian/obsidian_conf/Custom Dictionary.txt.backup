@@ -2,6 +2,7 @@ BeautifulSoup
 ClickHouse
 bs4
 clickhouse
+dataframe
 deepseek
 embeddings
 gemma3
@@ -12,4 +13,4 @@ reddit
 ricksanchez
 stokfin
 vr
-checksum_v1 = 6ec2f69d50dd72da3d2346bfcd18fb8c
+checksum_v1 = 838de05bb020dfeec383d34e82b85f9d

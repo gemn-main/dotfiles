@@ -11,6 +11,7 @@ nvim
 polymarket
 reddit
 ricksanchez
+scikit
 stokfin
 vr
-checksum_v1 = 838de05bb020dfeec383d34e82b85f9d
+checksum_v1 = 2c4fe1ec9f1a63334c00a74e9a7bf740
