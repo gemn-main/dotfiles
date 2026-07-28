@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAE and RMSE.md",
+                "file": "Gnu Linux/tresh/english.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MAE and RMSE"
+              "title": "english"
             }
           }
         ]
@@ -185,9 +185,10 @@
   },
   "active": "bb837f973e3eec3a",
   "lastOpenFiles": [
+    "scitik-learn/MAE and RMSE.md",
+    "Gnu Linux/tresh/english.md",
     "scitik-learn/scikit-learn.md",
-    "MAE and RMSE.md",
-    "f1_score.md",
+    "scitik-learn/f1_score.md",
     "scitik-learn/первая предобработка и обучение scikit-learn.md",
     "Gnu Linux/tresh/для НТО.md",
     "Gnu Linux/tresh/hetzner.md",
@@ -211,7 +212,6 @@
     "pandas/вывод данных pandas.md",
     "Gnu Linux/tresh/ply twitter account.md",
     "ing/Pasted image 20260612165334.png",
-    "Gnu Linux/tresh/kr.md",
     "scitik-learn",
     "pandas",
     "Pasted image 20260702111410.png",
