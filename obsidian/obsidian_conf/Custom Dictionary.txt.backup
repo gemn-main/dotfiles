@@ -1,5 +1,8 @@
 BeautifulSoup
 ClickHouse
+F1
+FN
+FP
 bs4
 clickhouse
 dataframe
@@ -11,6 +14,7 @@ nvim
 polymarket
 reddit
 ricksanchez
+scikit
 stokfin
 vr
-checksum_v1 = 838de05bb020dfeec383d34e82b85f9d
+checksum_v1 = d2e0f52cdf3bf6142352fd0eb4586f25

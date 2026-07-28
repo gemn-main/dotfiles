@@ -1,5 +1,9 @@
 BeautifulSoup
 ClickHouse
+F1
+FN
+FP
+TP
 bs4
 clickhouse
 dataframe
@@ -14,4 +18,4 @@ ricksanchez
 scikit
 stokfin
 vr
-checksum_v1 = 2c4fe1ec9f1a63334c00a74e9a7bf740
+checksum_v1 = ee32b74d05eb8d1530938eed841f7e95
