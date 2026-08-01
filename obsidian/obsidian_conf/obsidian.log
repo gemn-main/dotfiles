@@ -1801,3 +1801,13 @@
 2026-08-01 05:44:56 Verifying hash & signature. Size= 8772423
 2026-08-01 05:44:56 Saving file
 2026-08-01 05:44:57 Update complete.
+2026-08-01 16:40:41 Loaded updated app package /home/user/.config/obsidian/obsidian-1.13.4.asar
+2026-08-01 16:40:41 Checking for update using Github
+2026-08-01 16:40:42 Success.
+2026-08-01 16:40:42 Latest version is 1.13.4
+2026-08-01 16:40:42 App is up to date.
+2026-08-01 16:59:45 Loaded updated app package /home/user/.config/obsidian/obsidian-1.13.4.asar
+2026-08-01 16:59:45 Checking for update using Github
+2026-08-01 16:59:46 Success.
+2026-08-01 16:59:46 Latest version is 1.13.4
+2026-08-01 16:59:46 App is up to date.
