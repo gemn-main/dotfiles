@@ -1,4 +1,4 @@
-```python 
+ ```python 
 from sklearn.metrics import f1_score
 f1 = f1_score(y_test, y_pred, average = 'macro')
 ```

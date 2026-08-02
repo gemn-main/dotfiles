@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnu Linux/tresh/kr.md",
+                "file": "scitik-learn/scikit-learn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kr"
+              "title": "scikit-learn"
+            }
+          },
+          {
+            "id": "d36dcc07f6b38eb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Валидация моделей.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Валидация моделей"
             }
           },
           {
@@ -46,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,34 +224,34 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "088185ac8010ac93",
+  "active": "35e425faa840e26c",
   "lastOpenFiles": [
-    "Gnu Linux/tresh/kr.md",
-    "Gnu Linux/tresh/jupyter themes.md",
+    "K-Fold.md",
+    "Валидация моделей.md",
+    "stratify.md",
+    "scitik-learn/scikit-learn.md",
+    "scitik-learn/f1_score.md",
+    "scitik-learn/MAE and RMSE.md",
+    "scitik-learn/Метрика ранжирования — NDCG.md",
+    "scitik-learn/первая предобработка и обучение scikit-learn.md",
+    "Gnu Linux/tresh/english.md",
+    "Gnu Linux/tresh/echo с фигурными скобками.md",
+    "Gnu Linux/tresh/echo.md",
     "Gnu Linux/tresh/color.md",
     "Gnu Linux/tresh/api telegram.md",
     "Gnu Linux/продвинутые приемы работы с клавиатурой.md",
-    "scitik-learn/scikit-learn.md",
-    "Метрика ранжирования — NDCG.md",
-    "scitik-learn/f1_score.md",
-    "Gnu Linux/tresh/leetttcooooodeee.md",
-    "Gnu Linux/tresh/mean 0 std 1.md",
-    "Gnu Linux/tresh/palan.md",
-    "Gnu Linux/tresh/ply twitter account.md",
-    "Gnu Linux/tresh/prog.md",
-    "Gnu Linux/tresh/времена.md",
-    "Gnu Linux/tresh/вырезание и вставка.md",
-    "Gnu Linux/tresh/двойные и одинарные кавычки echo.md",
-    "Gnu Linux/tresh/для НТО.md",
-    "Gnu Linux/tresh/изменение текста.md",
-    "Gnu Linux/tresh/информационная безопасность.md",
-    "Gnu Linux/tresh/какаха 1.md",
-    "Gnu Linux/tresh/обход.md",
+    "Gnu Linux/tresh/цензура.md",
+    "Gnu Linux/tresh/утилиты.md",
+    "Gnu Linux/tresh/сети.md",
     "Gnu Linux/tresh/перемещение курсора.md",
     "Gnu Linux/tresh/подстановка(expansion).md",
-    "Gnu Linux/tresh/сети.md",
-    "Gnu Linux/tresh/утилиты.md",
-    "Gnu Linux/tresh/цензура.md",
+    "Gnu Linux/tresh/обход.md",
+    "Gnu Linux/tresh/какаха 1.md",
+    "Gnu Linux/tresh/информационная безопасность.md",
+    "Gnu Linux/tresh/изменение текста.md",
+    "Gnu Linux/tresh/для НТО.md",
+    "Gnu Linux/tresh/двойные и одинарные кавычки echo.md",
+    "Gnu Linux/tresh/вырезание и вставка.md",
     "ing/Pasted image 20260612165334.png",
     "scitik-learn",
     "pandas",
