@@ -38,3 +38,6 @@ Traceback (most recent call last):
                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 UnboundLocalError: cannot access local variable 'forecast_d' where it is not associated with a value
 (poly) root@provans:~/poly/polymarket# 
+
+
+RickSanchez vae_ch[ohroucee2Eeli
