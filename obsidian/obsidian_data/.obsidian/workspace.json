@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gnews.md",
+                "file": "scitik-learn/f1_score.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gnews"
+              "title": "f1_score"
             }
           },
           {
@@ -279,16 +279,16 @@
   "active": "413afbbffc8e3126",
   "lastOpenFiles": [
     "scitik-learn/scikit-learn.md",
+    "scitik-learn/Валидация моделей.md",
+    "scitik-learn/Подбор гиперпараметров GridSearchCV.md",
+    "scitik-learn/RandomizedSearchCV.md",
+    "scitik-learn/stratify.md",
     "gnews.md",
+    "scitik-learn/K-Fold.md",
     "scitik-learn/MAE and RMSE.md",
     "scitik-learn/f1_score.md",
-    "Подбор гиперпараметров GridSearchCV.md",
-    "Валидация моделей.md",
-    "K-Fold.md",
     "scitik-learn/Метрика ранжирования — NDCG.md",
     "scitik-learn/первая предобработка и обучение scikit-learn.md",
-    "RandomizedSearchCV.md",
-    "stratify.md",
     "c  c++/c++/c++.md",
     "c  c++/c++/c++/ввод and вывод.md",
     "c  c++/c++/c++/cout.md",
