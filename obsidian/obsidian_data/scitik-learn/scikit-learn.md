@@ -3,3 +3,5 @@
 [[MAE and RMSE]] 
 [[Метрика ранжирования — NDCG]] 
 [[Валидация моделей]] 
+[[Подбор гиперпараметров GridSearchCV]] 
+[[RandomizedSearchCV]]
