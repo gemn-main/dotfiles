@@ -1860,3 +1860,12 @@
 2026-08-07 05:51:57 Failed to check for update using Github (net::ERR_TIMED_OUT)
 2026-08-07 05:51:57 Checking for update using obsidian.md
 2026-08-07 05:51:58 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-08-07 11:12:16 Loaded updated app package /home/user/.config/obsidian/obsidian-1.13.4.asar
+2026-08-07 11:12:16 Checking for update using Github
+2026-08-07 11:12:17 Success.
+2026-08-07 11:12:17 Latest version is 1.13.4
+2026-08-07 11:12:17 App is up to date.
+2026-08-07 12:12:16 Checking for update using Github
+2026-08-07 12:12:17 Success.
+2026-08-07 12:12:17 Latest version is 1.13.4
+2026-08-07 12:12:17 App is up to date.
