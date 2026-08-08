@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Gnu Linux/tresh/kr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "kr"
             }
           },
           {
@@ -213,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5c9f0a015681bfc7",
@@ -321,38 +320,38 @@
   },
   "active": "0433fbfbb605e974",
   "lastOpenFiles": [
+    "scitik-learn/scikit-learn.md",
+    "scitik-learn/sklearn/SimpleImputer.md",
+    "scitik-learn/sklearn/f1_score.md",
+    "scitik-learn/sklearn/Предобработка признаков.md",
+    "scitik-learn/sklearn",
+    "scitik-learn/sklearn/OneHotEncoder.md",
+    "my gnews.md",
     "mails.md",
+    "Gnu Linux/продвинутые приемы работы с клавиатурой.md",
+    "scitik-learn/sklearn/StandardScaler.md",
+    "scitik-learn/sklearn/stratify.md",
+    "Gnu Linux/tresh/english.md",
+    "Gnu Linux/tresh/времена.md",
+    "Gnu Linux/tresh/вырезание и вставка.md",
+    "Gnu Linux/tresh/game.md",
     "Без названия.md",
     "инструкция для Мыла.md",
-    "my gnews.md",
     "Pasted image 20260808140720.png",
     "Pasted image 20260808140301.png",
     "Pasted image 20260808140254.png",
     "Pasted image 20260808140247.png",
     "Pasted image 20260808140031.png",
     "Pasted image 20260808140221.png",
-    "scitik-learn/Подбор гиперпараметров GridSearchCV.md",
-    "scitik-learn/scikit-learn.md",
-    "scitik-learn/f1_score.md",
-    "scitik-learn/Валидация моделей.md",
-    "scitik-learn/RandomizedSearchCV.md",
-    "scitik-learn/stratify.md",
-    "scitik-learn/K-Fold.md",
-    "scitik-learn/MAE and RMSE.md",
-    "scitik-learn/Метрика ранжирования — NDCG.md",
-    "scitik-learn/первая предобработка и обучение scikit-learn.md",
+    "scitik-learn/sklearn/Подбор гиперпараметров GridSearchCV.md",
+    "scitik-learn/sklearn/Валидация моделей.md",
+    "scitik-learn/sklearn/RandomizedSearchCV.md",
+    "scitik-learn/sklearn/K-Fold.md",
+    "scitik-learn/sklearn/MAE and RMSE.md",
+    "scitik-learn/sklearn/Метрика ранжирования — NDCG.md",
+    "scitik-learn/sklearn/первая предобработка и обучение scikit-learn.md",
     "c  c++/c++/c++.md",
     "c  c++/c++/c++/ввод and вывод.md",
-    "c  c++/c++/c++/cout.md",
-    "c  c++/с/с.md",
-    "Gnu Linux/tresh/цензура.md",
-    "Gnu Linux/tresh/перемещение курсора.md",
-    "Gnu Linux/tresh/echo с фигурными скобками.md",
-    "Gnu Linux/tresh/english.md",
-    "Gnu Linux/tresh/error in config hyprland.md",
-    "Gnu Linux/tresh/обход.md",
-    "Gnu Linux/tresh/galaktiki.md",
-    "Gnu Linux/tresh/kr.md",
     "ing/Pasted image 20260612165334.png",
     "scitik-learn",
     "pandas",
@@ -367,7 +366,6 @@
     "bis/polymarket",
     "scraping/scraping",
     "scraping",
-    "bis/Без названия",
-    "bis/tigik"
+    "bis/Без названия"
   ]
 }
