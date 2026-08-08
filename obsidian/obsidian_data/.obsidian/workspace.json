@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scitik-learn/Подбор гиперпараметров GridSearchCV.md",
+                "file": "gnews.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Подбор гиперпараметров GridSearchCV"
+              "title": "gnews"
             }
           },
           {
@@ -278,10 +278,10 @@
   },
   "active": "413afbbffc8e3126",
   "lastOpenFiles": [
+    "scitik-learn/Подбор гиперпараметров GridSearchCV.md",
     "scitik-learn/scikit-learn.md",
     "scitik-learn/f1_score.md",
     "scitik-learn/Валидация моделей.md",
-    "scitik-learn/Подбор гиперпараметров GridSearchCV.md",
     "scitik-learn/RandomizedSearchCV.md",
     "scitik-learn/stratify.md",
     "gnews.md",

@@ -59,3 +59,7 @@ aa67b8a571aaf8f1f710cc0839f664e7
 
 
 сервисы **NewsAPI.org****NewsData.io** **GNews API** **Currents API**
+
+
+
+https://newsapi.org
