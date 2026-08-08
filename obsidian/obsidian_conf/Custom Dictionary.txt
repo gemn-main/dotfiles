@@ -1,9 +1,13 @@
 BeautifulSoup
 ClickHouse
+Currentsapi
 F1
 FN
 FP
+Gnews
 GridSearchCV
+NewsApi
+NewsData
 TP
 bs4
 clickhouse
@@ -19,4 +23,4 @@ ricksanchez
 scikit
 stokfin
 vr
-checksum_v1 = d424d1d751b3de2c2f76001d0de9e21e
+checksum_v1 = 3f78575ba621a892082a0f20ef263b62

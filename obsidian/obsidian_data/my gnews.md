@@ -1,7 +1,5 @@
-```
-42bab942a52bb052ead972281c776123
-```
 
+42bab942a52bb052ead972281c776123
 1.     kynzleighmlwg273@outlook.com       zafvvvtvb7
 5c7baa2602bcd6b4404c3d4f85b72c22
 
@@ -39,27 +37,3 @@ aa67b8a571aaf8f1f710cc0839f664e7
 0c5dbb3be37af2b3b720f666410d0226
 
 
-11.     keldonefnmarvel@outlook.com       ruktypimj0
-
-
-
-12. jamilethstepheniaku@outlook.com       ghsokxqtr6
-
-
-
-13.     tyrickkhiana604@outlook.com       vxhjfvqch2
-
-
-
-14.     jaedynterrica6076@outlook.com       jdxlmugio6
-
-
-
-15.     dockmrby30@outlook.com       ahjlnbelb2
-
-
-сервисы **NewsAPI.org****NewsData.io** **GNews API** **Currents API**
-
-
-
-https://newsapi.org

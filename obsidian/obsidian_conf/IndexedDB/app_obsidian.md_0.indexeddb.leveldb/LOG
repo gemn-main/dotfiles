@@ -1,3 +1,9 @@
-2026/08/08-13:58:17.531 3b4e Reusing MANIFEST /home/user/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2026/08/08-13:58:17.532 3b4e Recovering log #34
-2026/08/08-13:58:17.556 3b4e Reusing old log /home/user/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000034.log 
+2026/08/08-15:14:21.524 e020 Reusing MANIFEST /home/user/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/08-15:14:21.524 e020 Recovering log #38
+2026/08/08-15:14:21.524 e020 Reusing old log /home/user/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000038.log 
+2026/08/08-15:14:21.574 e0a8 Compacting 1@1 + 1@2 files
+2026/08/08-15:14:21.597 e0a8 Generated table #41@1: 3716 keys, 525852 bytes
+2026/08/08-15:14:21.597 e0a8 Compacted 1@1 + 1@2 files => 525852 bytes
+2026/08/08-15:14:21.599 e0a8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/08/08-15:14:21.599 e0a8 Delete type=2 #39
+2026/08/08-15:14:21.599 e0a8 Delete type=2 #36
