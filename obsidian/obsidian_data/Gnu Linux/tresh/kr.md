@@ -7,7 +7,7 @@ https://cloud.mail.ru/public/Z5Dr/6FWr35WYs
 **"Этичный хакинг. Взлом антифрод систем"**
 https://cloud.mail.ru/public/1syC/KMG7CJ7M2
 
-
+крутой пентест eng: https://cloud.mail.ru/public/pZ2d/TLMfesjwE
 
 https://www.youtube.com/watch?v=E_7ggBWYSWQ&t=137s
 
