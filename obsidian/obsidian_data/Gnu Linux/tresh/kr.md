@@ -41,3 +41,66 @@ UnboundLocalError: cannot access local variable 'forecast_d' where it is not ass
 
 
 RickSanchez vae_ch[ohroucee2Eeli
+
+
+
+def check_gnews_api_key(api_key: str, timeout: int = 10) -> dict:
+    """
+    Проверяет один API-ключ GNews.
+    Возвращает словарь с результатом: статус и код ответа.
+    """
+    url = "https://gnews.io/api/v4/search"
+    params = {
+        "q": "test",
+        "max": 1,
+        "apikey": api_key,
+    }
+    try:
+        response = requests.get(url, params=params, timeout=timeout)
+    except requests.RequestException as e:
+        return {"status": "error", "detail": str(e), "code": None}
+    if response.status_code == 200:
+        return {"status": "valid", "detail": "OK", "code": 200}
+    elif response.status_code in (401, 403):
+        return {"status": "invalid", "detail": "Unauthorized", "code": response.status_code}
+    elif response.status_code == 429:
+        return {"status": "rate_limited", "detail": "Quota exceeded", "code": 429}
+    else:
+        return {"status": "unknown", "detail": response.text, "code": response.status_code}
+
+
+def check_multiple_keys(keys: list[str], delay: float = 1.0) -> dict:
+    """
+    Проверяет список ключей и собирает статистику.
+    :param keys: список API-ключей
+    :param delay: пауза между запросами (в секундах), чтобы не словить лимиты
+    :return: словарь со статистикой и подробными результатами
+    """
+    results = {}
+    stats = {"valid": 0, "invalid": 0, "rate_limited": 0, "error": 0, "unknown": 0}
+    for i, key in enumerate(keys, 1):
+        result = check_gnews_api_key(key)
+        results[key] = result
+        stats[result["status"]] += 1
+        print(f"[{i}/{len(keys)}] {key[:8]}... -> {result['status']} ({result['detail']})")
+        if i < len(keys):
+            time.sleep(delay)
+    print("\n=== Итоговая статистика ===")
+    for status, count in stats.items():
+        print(f"{status}: {count}")
+    return {"results": results, "stats": stats}
+
+
+# Пример использования
+if __name__ == "__main__":
+    api_keys = [
+        "5c7baa2602bcd6b4404c3d4f85b72c22",
+        "b3395b89bea3b45d4d50da9089611ad3",
+        
+    ]
+    report = check_multiple_keys(api_keys, delay=5)
+    print("\nРабочие ключи:")
+    for key, res in report["results"].items():
+        if res["status"] == "valid":
+            print(f"  {key}")
+
