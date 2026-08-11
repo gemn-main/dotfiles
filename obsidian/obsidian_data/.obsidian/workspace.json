@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/нормализация данных.md",
+                "file": "books/nn/PyTorch Освещая глубокое обучуние/Глава 5 PyTorch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "нормализация данных"
+              "title": "Глава 5 PyTorch"
             }
           },
           {
@@ -334,7 +334,17 @@
   },
   "active": "4c58ec31b268b0ae",
   "lastOpenFiles": [
+    "books/nn/PyTorch Освещая глубокое обучуние/полезные ресурсы.md",
+    "books/nn/PyTorch Освещая глубокое обучуние/Глава 5 PyTorch.md",
+    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/one-hot кодирование символов.md",
+    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/представление текста.md",
     "books/nn/PyTorch Освещая глубокое обучуние/Глава 4 PyTorch.md",
+    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/компоновка данных по времени 1.md",
+    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/mean 0 std 1 1.md",
+    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/One-Hot Encoding (Быстрое кодирование категориальных признаков).md",
+    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/представления оценок.md",
+    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/загрузка и данных.md",
+    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/нормализация данных.md",
     "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/загрузка батча изображений.md",
     "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/загрузка изображения imageio.md",
     "books/nn/PyTorch Освещая глубокое обучуние/Глава 3 PyTorch.md",
@@ -350,17 +360,7 @@
     "books/nn/PyTorch Освещая глубокое обучуние/PyTorch Освещая глубокое обучение.md",
     "books/nn/PyTorch Освещая глубокое обучуние/Глава 2 PyTorch.md",
     "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/игра в GAN.md",
-    "books/nn/PyTorch Освещая глубокое обучуние/Глава 1 PyTorch.md",
-    "Gnu Linux/tresh/english.md",
-    "api key.md",
     "Pasted image 20260810205804.png",
-    "Без названия.md",
-    "инструкция для Мыла.md",
-    "hacker.md",
-    "Gnu Linux/tresh/kr.md",
-    "scitik-learn/scikit-learn.md",
-    "scitik-learn/sklearn/SimpleImputer.md",
-    "scitik-learn/sklearn/f1_score.md",
     "scitik-learn/sklearn",
     "Pasted image 20260808140720.png",
     "Pasted image 20260808140301.png",
