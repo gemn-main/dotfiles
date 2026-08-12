@@ -95,10 +95,14 @@
             "id": "088185ac8010ac93",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Gnu Linux/tresh/english.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "english"
             }
           },
           {
@@ -168,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -332,8 +336,9 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "4c58ec31b268b0ae",
+  "active": "088185ac8010ac93",
   "lastOpenFiles": [
+    "Gnu Linux/tresh/для НТО.md",
     "books/nn/PyTorch Освещая глубокое обучуние/полезные ресурсы.md",
     "books/nn/PyTorch Освещая глубокое обучуние/Глава 5 PyTorch.md",
     "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/one-hot кодирование символов.md",
@@ -359,7 +364,6 @@
     "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/создание тензора pytorch.md",
     "books/nn/PyTorch Освещая глубокое обучуние/PyTorch Освещая глубокое обучение.md",
     "books/nn/PyTorch Освещая глубокое обучуние/Глава 2 PyTorch.md",
-    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/игра в GAN.md",
     "Pasted image 20260810205804.png",
     "scitik-learn/sklearn",
     "Pasted image 20260808140720.png",
