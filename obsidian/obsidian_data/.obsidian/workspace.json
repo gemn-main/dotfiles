@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/linux/командная строка linux/командная строка Linux/изменение режимов доступа к  файлу.md",
+                "file": "scitik-learn/sklearn/f1_score.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "изменение режимов доступа к  файлу"
+              "title": "f1_score"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mse",
+                "query": "cros val",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,34 +185,34 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "a057b0e9f94dd7e4",
+  "active": "1c3be6cf52b5e77d",
   "lastOpenFiles": [
-    "привилегии файла.md",
+    "scitik-learn/sklearn/K-Fold.md",
+    "scitik-learn/scikit-learn.md",
+    "scitik-learn/sklearn/Подбор гиперпараметров GridSearchCV.md",
+    "scitik-learn/sklearn/Валидация моделей.md",
+    "scitik-learn/sklearn/Метрика ранжирования — NDCG.md",
+    "scitik-learn/sklearn/RandomizedSearchCV.md",
+    "scitik-learn/sklearn/f1_score.md",
+    "scitik-learn/sklearn/первая предобработка и обучение scikit-learn.md",
+    "scitik-learn/sklearn/Предобработка признаков.md",
     "books/linux/командная строка linux/командная строка Linux/изменение режимов доступа к  файлу.md",
+    "Gnu Linux/tresh/для НТО.md",
+    "scitik-learn/sklearn/StandardScaler.md",
+    "scitik-learn/sklearn/OneHotEncoder.md",
+    "scitik-learn/sklearn/SimpleImputer.md",
+    "привилегии файла.md",
     "привилегии.md",
     "books/linux/командная строка linux/Командная строка Linux.md",
     "books/linux/командная строка linux/командная строка Linux/продвинутые приемы работы с клавиатурой.md",
-    "scitik-learn/scikit-learn.md",
     "scitik-learn/sklearn/MAE and RMSE.md",
     "books/nn/PyTorch Освещая глубокое обучуние/Глава 5 PyTorch.md",
     "Gnu Linux/tresh/english.md",
     "mails.md",
-    "Gnu Linux/tresh/для НТО.md",
     "books/nn/PyTorch Освещая глубокое обучуние/полезные ресурсы.md",
     "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/one-hot кодирование символов.md",
     "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/представление текста.md",
     "books/nn/PyTorch Освещая глубокое обучуние/Глава 4 PyTorch.md",
-    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/компоновка данных по времени 1.md",
-    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/mean 0 std 1 1.md",
-    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/One-Hot Encoding (Быстрое кодирование категориальных признаков).md",
-    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/представления оценок.md",
-    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/загрузка и данных.md",
-    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/нормализация данных.md",
-    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/загрузка батча изображений.md",
-    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/загрузка изображения imageio.md",
-    "books/nn/PyTorch Освещая глубокое обучуние/Глава 3 PyTorch.md",
-    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/сохранение и загрузка тензора pytorch.md",
-    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/преобразование в numpy тензоры pytorch.md",
     "Pasted image 20260810205804.png",
     "scitik-learn/sklearn",
     "Pasted image 20260808140720.png",
