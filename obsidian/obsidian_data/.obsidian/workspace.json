@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "poly.md",
+                "file": "nvim/Горячие клавиши nvim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "poly"
+              "title": "Горячие клавиши nvim"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cros val",
+                "query": "nvim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,8 +203,8 @@
   },
   "active": "986e0f266ea6874b",
   "lastOpenFiles": [
-    "scitik-learn/sklearn/f1_score.md",
     "poly.md",
+    "scitik-learn/sklearn/f1_score.md",
     "Без названия",
     "scitik-learn/sklearn/K-Fold.md",
     "scitik-learn/scikit-learn.md",
