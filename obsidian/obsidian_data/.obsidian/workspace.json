@@ -48,9 +48,37 @@
               "icon": "lucide-file",
               "title": "matplotlib"
             }
+          },
+          {
+            "id": "52a4f6adb07f33ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "другие виды графиков.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "другие виды графиков"
+            }
+          },
+          {
+            "id": "79e9d28db5594dbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "создание первого графика.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "создание первого графика"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,11 +242,16 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "a057b0e9f94dd7e4",
+  "active": "52a4f6adb07f33ef",
   "lastOpenFiles": [
+    "Pasted image 20260826130233.png",
+    "другие виды графиков.md",
+    "matplotlib/matplotlib.md",
+    "создание первого графика.md",
+    "Pasted image 20260826125551.png",
+    "Pasted image 20260826125519.png",
     "matplotlib/matplotlib_dir",
     "Gnu Linux/tresh/для НТО.md",
-    "matplotlib/matplotlib.md",
     "matplotlib",
     "Без названия 1.md",
     "nvim/Горячие клавиши nvim.md",
@@ -241,8 +274,6 @@
     "books/linux/командная строка linux/Командная строка Linux.md",
     "books/linux/командная строка linux/командная строка Linux/продвинутые приемы работы с клавиатурой.md",
     "scitik-learn/sklearn/MAE and RMSE.md",
-    "books/nn/PyTorch Освещая глубокое обучуние/Глава 5 PyTorch.md",
-    "Gnu Linux/tresh/english.md",
     "Pasted image 20260810205804.png",
     "scitik-learn/sklearn",
     "Pasted image 20260808140720.png",
@@ -254,15 +285,12 @@
     "ing/Pasted image 20260612165334.png",
     "scitik-learn",
     "pandas",
-    "Pasted image 20260702111410.png",
     "bis/polymarket/polytem.canvas",
-    "Pasted image 20260530195334.png",
     "bis/polymarket/models",
     "bis/polymarket/scraping",
     "bis/polymarket/запросы",
     "bis/tigik/tigik.canvas",
     "bis/polymarket",
-    "scraping/scraping",
-    "scraping"
+    "scraping/scraping"
   ]
 }
