@@ -1,5 +1,3 @@
-2026/08/28-22:19:45.202 477bc Reusing MANIFEST /home/user/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2026/08/28-22:19:45.202 477bc Recovering log #43
-2026/08/28-22:19:45.207 477bc Reusing old log /home/user/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000043.log 
-2026/08/28-22:19:45.207 477bc Delete type=2 #41
-2026/08/28-22:19:45.207 477bc Delete type=2 #44
+2026/08/29-16:14:40.349 18739 Reusing MANIFEST /home/user/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/29-16:14:40.349 18739 Recovering log #43
+2026/08/29-16:14:40.402 18739 Reusing old log /home/user/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000043.log 

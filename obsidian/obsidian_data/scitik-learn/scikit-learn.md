@@ -6,3 +6,6 @@
 [[Подбор гиперпараметров GridSearchCV]] 
 [[RandomizedSearchCV]]
 [[Предобработка признаков]] 
+[[class_weight='balanced']]
+[[TF-IDF]] 
+
