@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "сохрание графиков.md",
+                "file": "scitik-learn/scikit-learn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "сохрание графиков"
+              "title": "scikit-learn"
             }
           },
           {
@@ -258,7 +258,7 @@
   },
   "active": "ff386ae839c3d63e",
   "lastOpenFiles": [
-    "сохрание графиков.md",
+    "matplotlib/matplotlib_dir/сохрание графиков.md",
     "matplotlib/matplotlib.md",
     "matplotlib/matplotlib_dir/другие виды графиков.md",
     "matplotlib/matplotlib_dir/Без названия.md",
