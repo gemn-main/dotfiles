@@ -140,7 +140,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "matp",
+                "query": "random",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +161,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -270,7 +271,7 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "ff386ae839c3d63e",
+  "active": "aa04c715de152328",
   "lastOpenFiles": [
     "TF-IDF.md",
     "scitik-learn/scikit-learn.md",
