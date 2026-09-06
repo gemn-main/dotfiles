@@ -83,12 +83,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scitik-learn/sklearn/class_weight='balanced'.md",
+                "file": "lightGBM/lightGBM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "class_weight='balanced'"
+              "title": "lightGBM"
+            }
+          },
+          {
+            "id": "46185f743184c9d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lightGBM/lightGBM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lightGBM"
+            }
+          },
+          {
+            "id": "624f97bcb5a2e18a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "преобразование классов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "преобразование классов"
             }
           },
           {
@@ -120,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +182,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "RandomFore",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,8 +203,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -285,15 +312,24 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "aa04c715de152328",
+  "active": "624f97bcb5a2e18a",
   "lastOpenFiles": [
-    "scitik-learn/sklearn/f1_score.md",
+    "преобразование классов.md",
+    "lightGBM/lightGBM.md",
+    "scitik-learn/scikit-learn.md",
+    "scitik-learn/sklearn/первая предобработка и обучение scikit-learn.md",
+    "scitik-learn/sklearn/Подбор гиперпараметров GridSearchCV.md",
+    "scitik-learn/sklearn/Метрика ранжирования — NDCG.md",
+    "scitik-learn/sklearn/MAE and RMSE.md",
+    "простейшее использование.md",
     "scitik-learn/sklearn/class_weight='balanced'.md",
+    "lightGBM/lightGBM_dir",
+    "lightGBM",
+    "scitik-learn/sklearn/f1_score.md",
     "Без названия.md",
     "Gnu Linux/tresh/для НТО.md",
     "matplotlib/matplotlib_dir/создание первого графика.md",
     "matplotlib/matplotlib.md",
-    "scitik-learn/scikit-learn.md",
     "TF-IDF.md",
     "matplotlib/matplotlib_dir/сохрание графиков.md",
     "matplotlib/matplotlib_dir/другие виды графиков.md",
@@ -312,13 +348,6 @@
     "images/Pasted image 20260826125519.png",
     "matplotlib/matplotlib_dir",
     "matplotlib",
-    "nvim/Горячие клавиши nvim.md",
-    "scitik-learn/sklearn/K-Fold.md",
-    "scitik-learn/sklearn/Подбор гиперпараметров GridSearchCV.md",
-    "scitik-learn/sklearn/Валидация моделей.md",
-    "scitik-learn/sklearn/Метрика ранжирования — NDCG.md",
-    "scitik-learn/sklearn/RandomizedSearchCV.md",
-    "scitik-learn/sklearn/первая предобработка и обучение scikit-learn.md",
     "scitik-learn/sklearn",
     "Pasted image 20260808140720.png",
     "Pasted image 20260808140301.png",
@@ -332,8 +361,6 @@
     "bis/polymarket/models",
     "bis/polymarket/scraping",
     "bis/polymarket/запросы",
-    "bis/tigik/tigik.canvas",
-    "bis/polymarket",
-    "scraping/scraping"
+    "bis/tigik/tigik.canvas"
   ]
 }
