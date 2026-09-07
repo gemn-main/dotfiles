@@ -2192,3 +2192,12 @@
 2026-09-06 09:42:41 Success.
 2026-09-06 09:42:41 Latest version is 1.13.7
 2026-09-06 09:42:41 App is up to date.
+2026-09-07 13:30:33 Loaded updated app /home/user/.config/obsidian/obsidian-1.13.7.asar
+2026-09-07 13:30:34 Checking for update using Github
+2026-09-07 13:31:04 Failed to check for update using Github (net::ERR_TIMED_OUT)
+2026-09-07 13:31:04 Checking for update using obsidian.md
+2026-09-07 13:31:04 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-09-07 14:30:33 Checking for update using Github
+2026-09-07 14:30:34 Success.
+2026-09-07 14:30:34 Latest version is 1.13.7
+2026-09-07 14:30:34 App is up to date.
