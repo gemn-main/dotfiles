@@ -13,6 +13,7 @@ bs4
 clickhouse
 dataframe
 deepseek
+eSports
 embeddings
 gemma3
 gurutin1
@@ -23,4 +24,4 @@ ricksanchez
 scikit
 stokfin
 vr
-checksum_v1 = 3f78575ba621a892082a0f20ef263b62
+checksum_v1 = 13005a66ff237ee0f33bdb1d8a9d4898

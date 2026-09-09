@@ -7,6 +7,7 @@ FP
 Gnews
 GridSearchCV
 NewsApi
+NewsData
 TP
 bs4
 clickhouse
@@ -22,4 +23,4 @@ ricksanchez
 scikit
 stokfin
 vr
-checksum_v1 = 4acd36ac06ec5ef5dbfb0401935493e7
+checksum_v1 = 3f78575ba621a892082a0f20ef263b62

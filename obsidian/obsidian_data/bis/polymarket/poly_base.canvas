@@ -2,9 +2,12 @@
 	"nodes":[
 		{"id":"2ec289441219a86f","x":-60,"y":-220,"width":140,"height":60,"type":"text","text":"poly project "},
 		{"id":"f32243f330b1be04","x":-500,"y":20,"width":250,"height":60,"type":"text","text":"crypto module"},
-		{"id":"7bab0ba1d30fea10","x":-115,"y":20,"width":250,"height":60,"type":"text","text":""}
+		{"id":"7bab0ba1d30fea10","x":-115,"y":20,"width":250,"height":60,"type":"text","text":"eSports module"},
+		{"id":"3faa52c971832c08","x":260,"y":20,"width":250,"height":60,"type":"text","text":"policy module"}
 	],
 	"edges":[
-		{"id":"e228dd2b07b2451a","fromNode":"2ec289441219a86f","fromSide":"bottom","toNode":"f32243f330b1be04","toSide":"top"}
+		{"id":"e228dd2b07b2451a","fromNode":"2ec289441219a86f","fromSide":"bottom","toNode":"f32243f330b1be04","toSide":"top"},
+		{"id":"f584f3de14425d6e","fromNode":"2ec289441219a86f","fromSide":"bottom","toNode":"7bab0ba1d30fea10","toSide":"top"},
+		{"id":"483b6516b781470c","fromNode":"2ec289441219a86f","fromSide":"bottom","toNode":"3faa52c971832c08","toSide":"top"}
 	]
 }
