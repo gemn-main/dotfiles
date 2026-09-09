@@ -109,14 +109,17 @@
             "id": "624f97bcb5a2e18a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "scitik-learn/sklearn/MAE and RMSE.md",
-                "mode": "source",
-                "source": false
+                "file": "bis/polymarket/poly_base.canvas",
+                "viewState": {
+                  "x": -122.14680631309035,
+                  "y": 25.48370834094034,
+                  "zoom": -1.1102230246251565e-16
+                }
               },
-              "icon": "lucide-file",
-              "title": "MAE and RMSE"
+              "icon": "lucide-layout-dashboard",
+              "title": "poly_base"
             }
           },
           {
@@ -203,8 +206,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -315,34 +317,35 @@
   },
   "active": "624f97bcb5a2e18a",
   "lastOpenFiles": [
+    "bis/polymarket/polytem.canvas",
+    "bis/polymarket/poly_base.canvas",
+    "bis/polymarket/poly.md",
+    "bis/Без названия.md",
+    "scitik-learn/scikit-learn.md",
+    "scraping/scraping.md",
+    "tresh/api telegram.md",
+    "tresh/books.md",
+    "tresh/color.md",
+    "tresh/galaktiki.md",
+    "tresh/jupyter themes.md",
+    "Excalidraw/Drawing 2025-05-02 14.50.19.excalidraw.md",
+    "books/nn/PyTorch Освещая глубокое обучуние/полезные ресурсы.md",
+    "books/nn/PyTorch Освещая глубокое обучуние/Глава 5 PyTorch.md",
+    "books/nn/PyTorch Освещая глубокое обучуние/Глава 4 PyTorch.md",
+    "books/nn/PyTorch Освещая глубокое обучуние/Глава 2 PyTorch.md",
+    "ing/ing.md",
+    "scitik-learn/sklearn/MAE and RMSE.md",
     "преобразование классов.md",
     "lightGBM/lightGBM.md",
-    "scitik-learn/scikit-learn.md",
     "scitik-learn/sklearn/первая предобработка и обучение scikit-learn.md",
     "scitik-learn/sklearn/Подбор гиперпараметров GridSearchCV.md",
     "scitik-learn/sklearn/Метрика ранжирования — NDCG.md",
-    "scitik-learn/sklearn/MAE and RMSE.md",
     "простейшее использование.md",
     "scitik-learn/sklearn/class_weight='balanced'.md",
     "lightGBM/lightGBM_dir",
     "lightGBM",
     "scitik-learn/sklearn/f1_score.md",
     "Без названия.md",
-    "Gnu Linux/tresh/для НТО.md",
-    "matplotlib/matplotlib_dir/создание первого графика.md",
-    "matplotlib/matplotlib.md",
-    "TF-IDF.md",
-    "matplotlib/matplotlib_dir/сохрание графиков.md",
-    "matplotlib/matplotlib_dir/другие виды графиков.md",
-    "matplotlib/matplotlib_dir/Без названия.md",
-    "books/linux/командная строка linux/командная строка Linux/привилегии файла.md",
-    "books/linux/командная строка linux/командная строка Linux/привилегии.md",
-    "poly.md",
-    "Gnu Linux/tresh/Без названия 1.md",
-    "Gnu Linux/tresh/Без названия.md",
-    "Gnu Linux/tresh/hacker.md",
-    "api key.md",
-    "mails.md",
     "images/Pasted image 20260810205804.png",
     "images/Pasted image 20260826130233.png",
     "images/Pasted image 20260826125551.png",
@@ -358,7 +361,6 @@
     "Pasted image 20260808140221.png",
     "scitik-learn",
     "pandas",
-    "bis/polymarket/polytem.canvas",
     "bis/polymarket/models",
     "bis/polymarket/scraping",
     "bis/polymarket/запросы",
