@@ -13,9 +13,11 @@ bs4
 clickhouse
 dataframe
 deepseek
+eSports
 embeddings
 gemma3
 gurutin1
+lightGBM
 nvim
 polymarket
 reddit
@@ -23,4 +25,4 @@ ricksanchez
 scikit
 stokfin
 vr
-checksum_v1 = 3f78575ba621a892082a0f20ef263b62
+checksum_v1 = 7b5af6b6e265ef38226d9a8aa1133921

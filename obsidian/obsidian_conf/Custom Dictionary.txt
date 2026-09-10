@@ -17,6 +17,7 @@ eSports
 embeddings
 gemma3
 gurutin1
+lightGBM
 nvim
 polymarket
 reddit
@@ -24,4 +25,5 @@ ricksanchez
 scikit
 stokfin
 vr
-checksum_v1 = 13005a66ff237ee0f33bdb1d8a9d4898
+гиперпараметры
+checksum_v1 = 3ace4660b02d5e17de12a3c096d57b92
