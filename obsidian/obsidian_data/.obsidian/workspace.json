@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "гиперпараметры в lightGBM.md",
+                "file": "mails.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "гиперпараметры в lightGBM"
+              "title": "mails"
             }
           },
           {
@@ -196,7 +196,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MSE",
+                "query": "ke",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,7 +217,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -326,9 +327,14 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "4b94fdd63ffd8d24",
+  "active": "aa04c715de152328",
   "lastOpenFiles": [
-    "гиперпараметры в lightGBM.md",
+    "poly.md",
+    "scitik-learn/sklearn/TF-IDF.md",
+    "lightGBM/lightGBM_dir/простейшее использование.md",
+    "Без названия.md",
+    "lightGBM/lightGBM_dir/преобразование классов.md",
+    "lightGBM/lightGBM_dir/гиперпараметры в lightGBM.md",
     "lightGBM/lightGBM.md",
     "bis/polymarket/poly_base.canvas",
     "bis/polymarket/polytem.canvas",
@@ -348,16 +354,11 @@
     "books/nn/PyTorch Освещая глубокое обучуние/Глава 2 PyTorch.md",
     "ing/ing.md",
     "scitik-learn/sklearn/MAE and RMSE.md",
-    "преобразование классов.md",
     "scitik-learn/sklearn/первая предобработка и обучение scikit-learn.md",
     "scitik-learn/sklearn/Подбор гиперпараметров GridSearchCV.md",
     "scitik-learn/sklearn/Метрика ранжирования — NDCG.md",
-    "простейшее использование.md",
-    "scitik-learn/sklearn/class_weight='balanced'.md",
     "lightGBM/lightGBM_dir",
     "lightGBM",
-    "scitik-learn/sklearn/f1_score.md",
-    "Без названия.md",
     "images/Pasted image 20260810205804.png",
     "images/Pasted image 20260826130233.png",
     "images/Pasted image 20260826125551.png",
