@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "noutbock.md",
+                "file": "mails.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "noutbock"
+              "title": "mails"
             }
           }
         ],
@@ -342,8 +342,8 @@
   },
   "active": "c270a3b6708f3b06",
   "lastOpenFiles": [
-    "mails.md",
     "noutbock.md",
+    "mails.md",
     "poly.md",
     "scitik-learn/sklearn/TF-IDF.md",
     "lightGBM/lightGBM_dir/простейшее использование.md",
