@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mails.md",
+                "file": "scitik-learn/sklearn/SimpleImputer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mails"
+              "title": "SimpleImputer"
             }
           }
         ],
@@ -342,19 +342,23 @@
   },
   "active": "c270a3b6708f3b06",
   "lastOpenFiles": [
-    "noutbock.md",
+    "scitik-learn/sklearn/Предобработка признаков.md",
+    "scitik-learn/scikit-learn.md",
+    "scitik-learn/sklearn/class_weight='balanced'.md",
+    "scitik-learn/sklearn/RandomizedSearchCV.md",
+    "scitik-learn/sklearn/SimpleImputer.md",
+    "lightGBM/lightGBM.md",
+    "lightGBM/lightGBM_dir/гиперпараметры в lightGBM.md",
+    "lightGBM/lightGBM_dir/преобразование классов.md",
+    "lightGBM/lightGBM_dir/простейшее использование.md",
     "mails.md",
+    "noutbock.md",
     "poly.md",
     "scitik-learn/sklearn/TF-IDF.md",
-    "lightGBM/lightGBM_dir/простейшее использование.md",
-    "lightGBM/lightGBM_dir/преобразование классов.md",
-    "lightGBM/lightGBM_dir/гиперпараметры в lightGBM.md",
-    "lightGBM/lightGBM.md",
     "bis/polymarket/poly_base.canvas",
     "bis/polymarket/polytem.canvas",
     "bis/polymarket/poly.md",
     "bis/Без названия.md",
-    "scitik-learn/scikit-learn.md",
     "scraping/scraping.md",
     "tresh/api telegram.md",
     "tresh/books.md",
@@ -366,10 +370,6 @@
     "books/nn/PyTorch Освещая глубокое обучуние/Глава 5 PyTorch.md",
     "books/nn/PyTorch Освещая глубокое обучуние/Глава 4 PyTorch.md",
     "books/nn/PyTorch Освещая глубокое обучуние/Глава 2 PyTorch.md",
-    "ing/ing.md",
-    "scitik-learn/sklearn/MAE and RMSE.md",
-    "scitik-learn/sklearn/первая предобработка и обучение scikit-learn.md",
-    "scitik-learn/sklearn/Подбор гиперпараметров GridSearchCV.md",
     "lightGBM/lightGBM_dir",
     "lightGBM",
     "images/Pasted image 20260810205804.png",
