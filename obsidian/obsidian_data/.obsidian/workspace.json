@@ -139,26 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scitik-learn/sklearn/class_weight='balanced'.md",
+                "file": "scitik-learn/sklearn/Предобработка признаков.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "class_weight='balanced'"
-            }
-          },
-          {
-            "id": "79e9d28db5594dbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "создание первого графика.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "создание первого графика"
+              "title": "Предобработка признаков"
             }
           },
           {
@@ -176,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -340,14 +326,15 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "c270a3b6708f3b06",
+  "active": "66ca2963dccbbf4b",
   "lastOpenFiles": [
+    "scitik-learn/sklearn/StandardScaler.md",
     "scitik-learn/sklearn/Предобработка признаков.md",
     "scitik-learn/scikit-learn.md",
-    "scitik-learn/sklearn/class_weight='balanced'.md",
-    "scitik-learn/sklearn/RandomizedSearchCV.md",
-    "scitik-learn/sklearn/SimpleImputer.md",
     "lightGBM/lightGBM.md",
+    "scitik-learn/sklearn/class_weight='balanced'.md",
+    "scitik-learn/sklearn/SimpleImputer.md",
+    "scitik-learn/sklearn/RandomizedSearchCV.md",
     "lightGBM/lightGBM_dir/гиперпараметры в lightGBM.md",
     "lightGBM/lightGBM_dir/преобразование классов.md",
     "lightGBM/lightGBM_dir/простейшее использование.md",
@@ -369,7 +356,6 @@
     "books/nn/PyTorch Освещая глубокое обучуние/полезные ресурсы.md",
     "books/nn/PyTorch Освещая глубокое обучуние/Глава 5 PyTorch.md",
     "books/nn/PyTorch Освещая глубокое обучуние/Глава 4 PyTorch.md",
-    "books/nn/PyTorch Освещая глубокое обучуние/Глава 2 PyTorch.md",
     "lightGBM/lightGBM_dir",
     "lightGBM",
     "images/Pasted image 20260810205804.png",
