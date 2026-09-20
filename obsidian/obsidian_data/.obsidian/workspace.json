@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lightGBM/lightGBM.md",
+                "file": "scitik-learn/sklearn/OneHotEncoder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lightGBM"
+              "title": "OneHotEncoder"
             }
           },
           {
@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scitik-learn/sklearn/Предобработка признаков.md",
+                "file": "scitik-learn/sklearn/SimpleImputer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Предобработка признаков"
+              "title": "SimpleImputer"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -196,7 +196,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "onehot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,7 +217,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -326,19 +327,20 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "66ca2963dccbbf4b",
+  "active": "624f97bcb5a2e18a",
   "lastOpenFiles": [
-    "scitik-learn/sklearn/StandardScaler.md",
-    "scitik-learn/sklearn/Предобработка признаков.md",
+    "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/One-Hot Encoding (Быстрое кодирование категориальных признаков).md",
     "scitik-learn/scikit-learn.md",
     "lightGBM/lightGBM.md",
-    "scitik-learn/sklearn/class_weight='balanced'.md",
+    "mails.md",
     "scitik-learn/sklearn/SimpleImputer.md",
+    "scitik-learn/sklearn/Предобработка признаков.md",
+    "scitik-learn/sklearn/StandardScaler.md",
+    "scitik-learn/sklearn/class_weight='balanced'.md",
     "scitik-learn/sklearn/RandomizedSearchCV.md",
     "lightGBM/lightGBM_dir/гиперпараметры в lightGBM.md",
     "lightGBM/lightGBM_dir/преобразование классов.md",
     "lightGBM/lightGBM_dir/простейшее использование.md",
-    "mails.md",
     "noutbock.md",
     "poly.md",
     "scitik-learn/sklearn/TF-IDF.md",
@@ -355,7 +357,6 @@
     "Excalidraw/Drawing 2025-05-02 14.50.19.excalidraw.md",
     "books/nn/PyTorch Освещая глубокое обучуние/полезные ресурсы.md",
     "books/nn/PyTorch Освещая глубокое обучуние/Глава 5 PyTorch.md",
-    "books/nn/PyTorch Освещая глубокое обучуние/Глава 4 PyTorch.md",
     "lightGBM/lightGBM_dir",
     "lightGBM",
     "images/Pasted image 20260810205804.png",

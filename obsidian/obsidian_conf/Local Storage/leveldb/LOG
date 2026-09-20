@@ -1,3 +1,6 @@
-2026/09/19-14:33:25.019 17723 Reusing MANIFEST /home/user/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
-2026/09/19-14:33:25.030 17723 Recovering log #3
-2026/09/19-14:33:25.031 17723 Reusing old log /home/user/.config/obsidian/Local Storage/leveldb/000003.log 
+2026/09/20-11:27:06.284 a1be Reusing MANIFEST /home/user/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
+2026/09/20-11:27:06.287 a1be Recovering log #3
+2026/09/20-11:27:06.288 a1be Reusing old log /home/user/.config/obsidian/Local Storage/leveldb/000003.log 
+2026/09/20-11:28:06.289 a1a5 Level-0 table #5: started
+2026/09/20-11:28:06.327 a1a5 Level-0 table #5: 11385 bytes OK
+2026/09/20-11:28:06.328 a1a5 Delete type=0 #3
