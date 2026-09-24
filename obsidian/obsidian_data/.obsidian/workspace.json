@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "вывод poly_wallet.md",
+                "file": "scitik-learn/sklearn/K-Fold.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "вывод poly_wallet"
+              "title": "K-Fold"
             }
           },
           {
@@ -210,7 +210,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "onehot",
+                "query": "cross val",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -231,7 +231,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -343,9 +344,9 @@
   "active": "f06a206b27574595",
   "lastOpenFiles": [
     "lightGBM/lightGBM_dir/гиперпараметры в lightGBM.md",
+    "lightGBM/lightGBM.md",
     "вывод poly_wallet.md",
     "Без названия",
-    "lightGBM/lightGBM.md",
     "scitik-learn/scikit-learn.md",
     "scitik-learn/sklearn/f1_score.md",
     "lightGBM/lightGBM_dir/преобразование классов.md",
