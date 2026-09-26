@@ -10,7 +10,7 @@
     "hyprland/window"
   ],
   "modules-right": [
-    "custom/weather",
+    "custom/timeblock",
 	"custom/btc",
     "network",
     "pulseaudio",
@@ -28,7 +28,12 @@
       "urgent": ""
     }
   },
-  
+
+  "custom/timeblock": {
+	"exec": "~/.local/bin/timeblock-waybar",
+	"interval": 15,
+	"return-type": "json"
+  },
   /*"custom/weather": {
     "exec": "~/.config/waybar/weather.sh",
     "interval": 900,
