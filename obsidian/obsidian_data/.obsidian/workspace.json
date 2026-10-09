@@ -342,6 +342,7 @@
   },
   "active": "f06a206b27574595",
   "lastOpenFiles": [
+    "mails.md",
     "scitik-learn/sklearn/class_weight='balanced'.md",
     "scitik-learn/sklearn/K-Fold.md",
     "lightGBM/lightGBM_dir/гиперпараметры в lightGBM.md",
@@ -354,7 +355,6 @@
     "lightGBM/lightGBM_dir/простейшее использование.md",
     "scitik-learn/sklearn/OneHotEncoder.md",
     "books/nn/PyTorch Освещая глубокое обучуние/pyTorch/One-Hot Encoding (Быстрое кодирование категориальных признаков).md",
-    "mails.md",
     "scitik-learn/sklearn/SimpleImputer.md",
     "scitik-learn/sklearn/Предобработка признаков.md",
     "scitik-learn/sklearn/StandardScaler.md",

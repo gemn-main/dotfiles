@@ -70,4 +70,3 @@ f1 = f1_score(y_test, y_pred, average = 'macro')
 2. IMEI1:863698087150717
 3. Ivan
 4. c21688785@gmail.com
-5. 
