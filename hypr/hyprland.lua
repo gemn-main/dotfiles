@@ -164,6 +164,20 @@ hl.window_rule({
     center = true,
 })
 
+-- Центрировать все плавающие окна на текущем рабочем столе
+local function center_all_floating()
+  local ws = hl.get_active_workspace()
+  if not ws then return end
+
+  for _, w in ipairs(hl.get_windows()) do
+    if w.floating and w.workspace and w.workspace.id == ws.id then
+      hl.dispatch(hl.dsp.window.center({ window = w }))
+    end
+  end
+end
+
+hl.bind("SUPER + SHIFT + C", center_all_floating)
+
 -- =============================================================================
 -- KEYBINDINGS
 -- =============================================================================
