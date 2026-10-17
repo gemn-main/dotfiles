@@ -33,7 +33,7 @@ hl.on("hyprland.start", function()
     -- hl.exec_cmd("systemctl --user start mpvpaper.service")
     hl.exec_cmd("waybar")
     hl.exec_cmd("[workspace 10 silent] corectrl")
-    hl.exec_cmd("swaybg -i " .. home .. "/Downloads/pexels-adrien-olichon-1257089-2387819.jpg -m fill")
+    hl.exec_cmd("swaybg -i " .. home .. "~/Downloads/dark-abstract-3840x2160-18134.png ")
 end)
 
 -- =============================================================================
