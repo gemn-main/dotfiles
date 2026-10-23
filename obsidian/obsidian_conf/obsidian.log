@@ -2425,3 +2425,11 @@
 2026-10-22 09:54:41 Success.
 2026-10-22 09:54:41 Latest version is 1.14.4
 2026-10-22 09:54:41 App is up to date.
+2026-10-23 11:47:36 Loaded updated app /home/user/.config/obsidian/obsidian-1.14.4.asar
+2026-10-23 11:47:36 Checking for update using Github
+2026-10-23 11:47:37 Success.
+2026-10-23 11:47:37 Latest version is 1.14.5
+2026-10-23 11:47:37 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.14.5/obsidian-1.14.5.asar.gz
+2026-10-23 11:47:39 Verifying hash & signature. Size= 9462500
+2026-10-23 11:47:39 Saving file
+2026-10-23 11:47:40 Update complete.
