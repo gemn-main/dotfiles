@@ -55,8 +55,9 @@ window#waybar {
     animation: pulse 2s infinite;
 }
 
-/* Часы - розовые */
-#clock {
+/* Часы - розовые (custom/clock: время + подсказка о пиковых часах DeepSeek) */
+#clock,
+#custom-clock {
     color: #f5c2e7;
     background-color: rgba(245, 194, 231, 0.15);
     padding: 0 12px;

@@ -17,7 +17,7 @@
     "cpu",
     "memory",
     "temperature",
-    "clock"
+    "custom/clock"
   ],
   
   "hyprland/workspaces": {
@@ -77,10 +77,13 @@
     "tooltip": false
   },
   
-  "clock": {
-    "format": " {:%H:%M}",
-    "on-click": "~/.config/waybar/calendar.sh",
-    "tooltip": false
+  "custom/clock": {
+    "exec": "~/.config/waybar/scripts/clock-peak.sh",
+    "interval": 1,
+    "return-type": "json",
+    "format": "{}",
+    "tooltip": true,
+    "on-click": "~/.config/waybar/calendar.sh"
   },
   "custom/btc": {
     "exec": "~/.config/waybar/scripts/BTC.sh USD $",
