@@ -2466,3 +2466,11 @@
 2026-11-11 09:12:22 Success.
 2026-11-11 09:12:22 Latest version is 1.15.0
 2026-11-11 09:12:22 App is up to date.
+2026-11-13 12:14:54 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-11-13 12:14:54 Checking for update using Github
+2026-11-13 12:14:55 Success.
+2026-11-13 12:14:55 Latest version is 1.15.1
+2026-11-13 12:14:55 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.15.1/obsidian-1.15.1.asar.gz
+2026-11-13 12:14:57 Verifying hash & signature. Size= 8562390
+2026-11-13 12:14:57 Saving file
+2026-11-13 12:14:57 Update complete.

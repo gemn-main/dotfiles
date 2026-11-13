@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "plan"
             }
           },
           {
@@ -384,8 +384,9 @@
   },
   "active": "ddb6f5be6adb040a",
   "lastOpenFiles": [
-    "api key.md",
+    "poly.md",
     "Без названия.md",
+    "api key.md",
     "scitik-learn/sklearn/f1_score.md",
     "plan.md",
     "mails.md",
@@ -405,7 +406,6 @@
     "scitik-learn/sklearn/StandardScaler.md",
     "scitik-learn/sklearn/RandomizedSearchCV.md",
     "noutbock.md",
-    "poly.md",
     "scitik-learn/sklearn/TF-IDF.md",
     "bis/polymarket/poly_base.canvas",
     "bis/polymarket/polytem.canvas",
