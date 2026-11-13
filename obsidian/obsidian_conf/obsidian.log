@@ -2474,3 +2474,7 @@
 2026-11-13 12:14:57 Verifying hash & signature. Size= 8562390
 2026-11-13 12:14:57 Saving file
 2026-11-13 12:14:57 Update complete.
+2026-11-13 13:14:54 Checking for update using Github
+2026-11-13 13:14:54 Success.
+2026-11-13 13:14:54 Latest version is 1.15.1
+2026-11-13 13:14:54 An update is already downloaded.
