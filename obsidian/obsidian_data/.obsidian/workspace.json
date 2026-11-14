@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-02 14.50.19.excalidraw.md",
+                "file": "poly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drawing 2025-05-02 14.50.19.excalidraw"
+              "title": "poly"
             }
           },
           {
@@ -398,6 +398,10 @@
   },
   "active": "0d56bdf044f5c1dd",
   "lastOpenFiles": [
+    "Pasted image 20261114211528.png",
+    "Pasted image 20261114211516.png",
+    "Pasted image 20261114211507.png",
+    "Excalidraw/Drawing 2025-05-02 14.50.19.excalidraw.md",
     "Gnu Linux/tresh/цензура.md",
     "Gnu Linux/tresh/утилиты.md",
     "Gnu Linux/tresh/сети.md",
@@ -422,8 +426,6 @@
     "Gnu Linux/tresh/hetzner.md",
     "Gnu Linux/tresh/hacker.md",
     "Gnu Linux/tresh/groupby.md",
-    "Gnu Linux/tresh/game.md",
-    "Gnu Linux/tresh/error in config hyprland.md",
     "Без названия",
     "bis/polymarket/poly_base.canvas",
     "bis/polymarket/polytem.canvas",
@@ -440,8 +442,6 @@
     "Pasted image 20260808140301.png",
     "Pasted image 20260808140254.png",
     "Pasted image 20260808140247.png",
-    "Pasted image 20260808140031.png",
-    "Pasted image 20260808140221.png",
     "scitik-learn",
     "pandas",
     "bis/polymarket/models",
