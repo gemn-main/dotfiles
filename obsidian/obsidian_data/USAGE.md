@@ -53,14 +53,14 @@ bash scripts/verify/verify.sh                  # гейты кода (PASS 13 / 
 ## 3. База данных (DuckDB): откуда данные
 
 ### 3.1. Таблицы
-| Таблица | Что внутри |
-|---|---|
-| `markets` | рынки Polymarket (вопрос, токены, исходы, даты закрытия, winner) |
-| `trades` | сделки (wallet, condition_id, token_id, side, size, price, ts, trade_key) |
-| `wallet_scores` | рейтинг кошельков (grade X/A/B/C/D, trust, q-value и т.д.) |
-| `positions`, `positions_done` | позиции, восстановленные из сделок (для скоринга) |
-| `backfill_state` | чекпоинты догрузки новых данных |
-| `migration_state` | чекпоинты миграции/среза |
+| Таблица                       | Что внутри                                                                |
+| ----------------------------- | ------------------------------------------------------------------------- |
+| `markets`                     | рынки Polymarket (вопрос, токены, исходы, даты закрытия, winner)          |
+| `trades`                      | сделки (wallet, condition_id, token_id, side, size, price, ts, trade_key) |
+| `wallet_scores`               | рейтинг кошельков (grade X/A/B/C/D, trust, q-value и т.д.)                |
+| `positions`, `positions_done` | позиции, восстановленные из сделок (для скоринга)                         |
+| `backfill_state`              | чекпоинты догрузки новых данных                                           |
+| `migration_state`             | чекпоинты миграции/среза                                                  |
 
 ### 3.2. Загрузка исторического среза (то, что уже сделано — 120 дней)
 ```bash

@@ -396,8 +396,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "0d56bdf044f5c1dd",
+  "active": "a057b0e9f94dd7e4",
   "lastOpenFiles": [
+    "USAGE.md",
+    "NEWS.md",
     "poly.md",
     "Pasted image 20261114211528.png",
     "Pasted image 20261114211516.png",
@@ -425,8 +427,6 @@
     "Gnu Linux/tresh/kr.md",
     "Gnu Linux/tresh/jupyter themes.md",
     "Gnu Linux/tresh/hetzner.md",
-    "Gnu Linux/tresh/hacker.md",
-    "Gnu Linux/tresh/groupby.md",
     "Без названия",
     "bis/polymarket/poly_base.canvas",
     "bis/polymarket/polytem.canvas",
