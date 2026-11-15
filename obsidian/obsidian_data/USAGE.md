@@ -264,3 +264,13 @@ mcp/           MCP-сервер
 reports/       вердикты, сессии, paper/live-логи
 docs/          этот гайд, NEWS, LIVE, decisions, SLICE_STATE
 ```
+
+
+
+
+WALLETS_PER_CYCLE=120 \
+POSITIONS_INTERVAL=7200 \
+MAX_PAGES=7 \
+MAX_POSITIONS_PER_CYCLE=600000 \
+DAYS=10 \
+bash install_and_run.sh
