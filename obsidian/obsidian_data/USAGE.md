@@ -274,3 +274,55 @@ MAX_PAGES=7 \
 MAX_POSITIONS_PER_CYCLE=600000 \
 DAYS=10 \
 bash install_and_run.sh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![[Pasted image 20261116200959.png]]
+![[Pasted image 20261116201011.png]]
+![[Pasted image 20261116201021.png]]
+![[Pasted image 20261116201107.png]]
+![[Pasted image 20261116201120.png]]
+![[Pasted image 20261116201154.png]]
+
+
+
+
+
+
+![[Pasted image 20261116201242.png]]
+![[Pasted image 20261116201249.png]]
+![[Pasted image 20261116201337.png]]
+![[Pasted image 20261116201402.png]]
