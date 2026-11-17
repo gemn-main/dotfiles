@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnu Linux/tresh/Без названия 2.md",
+                "file": "lesson3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия 2"
+              "title": "lesson3"
             }
           },
           {
@@ -396,8 +396,9 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "a057b0e9f94dd7e4",
+  "active": "0d56bdf044f5c1dd",
   "lastOpenFiles": [
+    "Gnu Linux/tresh/Без названия 2.md",
     "Gnu Linux/tresh/poly.md",
     "Gnu Linux/tresh/USAGE.md",
     "Gnu Linux/tresh/noutbock.md",
@@ -433,7 +434,6 @@
     "tresh/api telegram.md",
     "tresh/books.md",
     "tresh/color.md",
-    "tresh/galaktiki.md",
     "Без названия",
     "bis/polymarket/poly_base.canvas",
     "bis/polymarket/polytem.canvas",
